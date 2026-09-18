@@ -89,3 +89,29 @@ def find_matches(kalshi_rows, poly_rows, min_similarity=0.42, max_date_gap_days=
 
     matches.sort(key=lambda m: m["gap"], reverse=True)
     return matches
+
+
+def debug_top_candidates(kalshi_rows, poly_rows, max_date_gap_days=60, top_n=20):
+    """Diagnostic helper: ignores the similarity threshold entirely and returns
+    the highest-similarity pairs found (after the same liquidity/activity
+    filters as find_matches), so we can see what's *almost* matching."""
+    k_rows = [r for r in kalshi_rows if r["liquidity"] > 0 or r["volume_24h"] > 0]
+    p_rows = [r for r in poly_rows if r["liquidity"] >= 300.0]
+
+    k_tok = [(_tokens(r["title"]), r) for r in k_rows]
+    p_tok = [(_tokens(r["title"]), r) for r in p_rows]
+
+    scored = []
+    for kt, k in k_tok:
+        kd = _parse_dt(k.get("close_time"))
+        for pt, p in p_tok:
+            sim = _jaccard(kt, pt)
+            if sim <= 0:
+                continue
+            pd = _parse_dt(p.get("close_time"))
+            date_gap = None
+            if kd and pd:
+                date_gap = abs((kd - pd).total_seconds()) / 86400
+            scored.append((sim, date_gap, k, p))
+    scored.sort(key=lambda c: c[0], reverse=True)
+    return scored[:top_n]

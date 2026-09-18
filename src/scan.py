@@ -50,11 +50,12 @@ def main():
 
     all_matches = match.find_matches(kalshi_rows, poly_rows, min_similarity=MIN_SIMILARITY)
     if DEBUG_TITLES:
-        print(f"[debug] {len(all_matches)} matches at default threshold; top 10 by similarity:")
-        top_sim = sorted(all_matches, key=lambda m: m["similarity"], reverse=True)[:10]
-        for m in top_sim:
-            print(f"   sim={m['similarity']:.2f} gap={m['gap']:.3f}  "
-                  f"K:{m['kalshi']['title'][:45]!r}  P:{m['polymarket']['title'][:45]!r}")
+        print(f"[debug] {len(all_matches)} matches at threshold {MIN_SIMILARITY}")
+        print("[debug] top candidates regardless of threshold (ignoring min_similarity):")
+        top_cands = match.debug_top_candidates(kalshi_rows, poly_rows)
+        for sim, date_gap, k, p in top_cands:
+            dg = f"{date_gap:.0f}d" if date_gap is not None else "?"
+            print(f"   sim={sim:.2f} dategap={dg}  K:{k['title'][:50]!r}  P:{p['title'][:50]!r}")
     flagged = [m for m in all_matches if m["gap"] >= MIN_GAP][:TOP_N]
     print(f"[scan] {len(all_matches)} total matches, {len(flagged)} above "
           f"{MIN_GAP*100:.0f}pt gap threshold")
