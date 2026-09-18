@@ -15,8 +15,10 @@ import polymarket_client  # noqa: E402
 import match  # noqa: E402
 import render_site  # noqa: E402
 
-MIN_GAP = float(os.environ.get("MIN_GAP", "0.06"))  # 6 percentage points default
-TOP_N = int(os.environ.get("TOP_N", "40"))
+MIN_GAP = float(os.environ.get("MIN_GAP") or "0.06")  # 6 percentage points default
+TOP_N = int(os.environ.get("TOP_N") or "40")
+MIN_SIMILARITY = float(os.environ.get("MIN_SIMILARITY") or "0.42")
+DEBUG_TITLES = (os.environ.get("DEBUG_TITLES") or "").lower() == "true"
 
 
 def main():
@@ -38,7 +40,21 @@ def main():
               "to avoid overwriting a good page with an empty one")
         return
 
-    all_matches = match.find_matches(kalshi_rows, poly_rows)
+    if DEBUG_TITLES:
+        print("[debug] sample kalshi titles:")
+        for r in kalshi_rows[:20]:
+            print(f"   liq={r['liquidity']:.0f} vol={r['volume_24h']:.0f}  {r['title']!r}")
+        print("[debug] sample polymarket titles:")
+        for r in poly_rows[:20]:
+            print(f"   liq={r['liquidity']:.0f}  {r['title']!r}")
+
+    all_matches = match.find_matches(kalshi_rows, poly_rows, min_similarity=MIN_SIMILARITY)
+    if DEBUG_TITLES:
+        print(f"[debug] {len(all_matches)} matches at default threshold; top 10 by similarity:")
+        top_sim = sorted(all_matches, key=lambda m: m["similarity"], reverse=True)[:10]
+        for m in top_sim:
+            print(f"   sim={m['similarity']:.2f} gap={m['gap']:.3f}  "
+                  f"K:{m['kalshi']['title'][:45]!r}  P:{m['polymarket']['title'][:45]!r}")
     flagged = [m for m in all_matches if m["gap"] >= MIN_GAP][:TOP_N]
     print(f"[scan] {len(all_matches)} total matches, {len(flagged)} above "
           f"{MIN_GAP*100:.0f}pt gap threshold")
