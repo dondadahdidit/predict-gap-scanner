@@ -40,11 +40,18 @@ def _parse_dt(s):
 
 
 def find_matches(kalshi_rows, poly_rows, min_similarity=0.42, max_date_gap_days=60,
-                  min_liquidity=500.0):
+                  min_poly_liquidity=300.0):
     """Greedy best-first matching. Returns a list of match dicts with both
-    sides' info plus the computed similarity and price gap."""
-    k_rows = [r for r in kalshi_rows if r["liquidity"] >= min_liquidity or r["volume_24h"] > 0]
-    p_rows = [r for r in poly_rows if r["liquidity"] >= min_liquidity]
+    sides' info plus the computed similarity and price gap.
+
+    Kalshi and Polymarket's "liquidity"-ish fields are on completely different
+    scales (contract counts vs. dollars), so we filter each platform on its
+    own terms: Kalshi markets need SOME observed activity (open interest or
+    24h volume above zero), Polymarket markets need a modest dollar-liquidity
+    floor to exclude dead listings.
+    """
+    k_rows = [r for r in kalshi_rows if r["liquidity"] > 0 or r["volume_24h"] > 0]
+    p_rows = [r for r in poly_rows if r["liquidity"] >= min_poly_liquidity]
 
     k_tok = [(_tokens(r["title"]), r) for r in k_rows]
     p_tok = [(_tokens(r["title"]), r) for r in p_rows]

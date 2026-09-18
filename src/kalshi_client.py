@@ -65,9 +65,14 @@ def market_mid_price(m):
         return None
 
 
-def collect_watchlist(max_series=40, max_markets_per_series=15):
+def collect_watchlist(max_series=200, max_markets_per_series=10):
     """Walk our watched categories' series and pull their open markets, returning
-    a flat list of normalized dicts: {title, ticker, url, price, close_time, liquidity, volume}."""
+    a flat list of normalized dicts: {title, ticker, url, price, close_time, liquidity, volume}.
+
+    Note: Kalshi's per-market "liquidity" field reads 0 on this endpoint in
+    practice, so we use open_interest (contracts outstanding) as the real
+    activity signal instead, alongside 24h volume.
+    """
     series_map = get_series_by_category()
     out = []
     for i, (ticker, s) in enumerate(series_map.items()):
@@ -81,6 +86,8 @@ def collect_watchlist(max_series=40, max_markets_per_series=15):
             title = m.get("title") or s.get("title") or ticker
             sub = m.get("yes_sub_title")
             full_title = f"{title} — {sub}" if sub and sub not in title else title
+            open_interest = _safe_float(m.get("open_interest_fp") or m.get("open_interest"))
+            volume = _safe_float(m.get("volume_24h_fp") or m.get("volume_24h"))
             out.append({
                 "platform": "kalshi",
                 "title": full_title,
@@ -89,8 +96,8 @@ def collect_watchlist(max_series=40, max_markets_per_series=15):
                 "url": f"https://kalshi.com/markets/{ticker.lower()}",
                 "price": price,
                 "close_time": m.get("close_time"),
-                "liquidity": _safe_float(m.get("liquidity")),
-                "volume_24h": _safe_float(m.get("volume_24h_fp") or m.get("volume_24h")),
+                "liquidity": max(open_interest, _safe_float(m.get("liquidity"))),
+                "volume_24h": volume,
             })
     return out
 

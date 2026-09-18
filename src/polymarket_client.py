@@ -27,10 +27,11 @@ def _get(path, params=None, retries=3):
 
 
 # Polymarket doesn't expose a clean "category" filter on this endpoint that
-# matches Kalshi's, so we pull the highest-liquidity active binary markets
-# (which skews toward politics/econ/current-events -- exactly the overlap
-# we want with Kalshi) and let the text matcher in match.py do the rest.
-def collect_top_markets(pages=6, page_size=100):
+# matches Kalshi's, so we pull the most actively-TRADED active binary markets
+# (sorted by real 24h volume, not the "liquidity" field -- which is dominated
+# by a handful of novelty/meme mega-series with huge phantom liquidity and
+# near-zero real trading) and let the text matcher in match.py do the rest.
+def collect_top_markets(pages=15, page_size=100):
     out = []
     for offset in range(0, pages * page_size, page_size):
         data = _get("/markets", params={
@@ -38,18 +39,29 @@ def collect_top_markets(pages=6, page_size=100):
             "offset": offset,
             "active": "true",
             "closed": "false",
-            "order": "liquidity",
+            "order": "volume24hr",
             "ascending": "false",
         })
         if not data:
             break
         for m in data:
             row = _normalize(m)
-            if row:
+            if row and not _is_noise(row["title"]):
                 out.append(row)
         if len(data) < page_size:
             break
     return out
+
+
+_NOISE_PATTERNS = (
+    "democratic presidential nomination",
+    "republican presidential nomination",
+)
+
+
+def _is_noise(title):
+    t = title.lower()
+    return any(p in t for p in _NOISE_PATTERNS)
 
 
 def _normalize(m):
