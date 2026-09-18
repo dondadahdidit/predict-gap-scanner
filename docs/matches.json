@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-18T19:02:19.147666+00:00",
+ "generated_at": "2026-09-18T22:34:52.240295+00:00",
  "matches": [
   {
-   "similarity": 0.6,
-   "gap": 0.12,
-   "kalshi_title": "Will OpenAI announce another Millennium Prize solution before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.7050000000000001,
-   "kalshi_url": "https://kalshi.com/markets/kxopenaianothermillennium",
-   "polymarket_title": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
-   "polymarket_price": 0.585,
-   "polymarket_url": "https://polymarket.com/event/will-openai-announce-another-millennium-prize-solution-by-december-31-2026"
+   "similarity": 0.375,
+   "gap": 0.067,
+   "kalshi_title": "Will Donald Trump visit Iran before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.023,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpiran",
+   "polymarket_title": "Will Donald Trump visit North Korea in 2026?",
+   "polymarket_price": 0.09,
+   "polymarket_url": "https://polymarket.com/event/will-donald-trump-visit-north-korea-in-2026"
   }
  ]
 }
