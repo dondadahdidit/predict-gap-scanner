@@ -15,9 +15,9 @@ import polymarket_client  # noqa: E402
 import match  # noqa: E402
 import render_site  # noqa: E402
 
-MIN_GAP = float(os.environ.get("MIN_GAP") or "0.06")  # 6 percentage points default
+MIN_GAP = float(os.environ.get("MIN_GAP") or "0.04")  # 4 percentage points default
 TOP_N = int(os.environ.get("TOP_N") or "40")
-MIN_SIMILARITY = float(os.environ.get("MIN_SIMILARITY") or "0.42")
+MIN_SIMILARITY = float(os.environ.get("MIN_SIMILARITY") or "0.32")
 DEBUG_TITLES = (os.environ.get("DEBUG_TITLES") or "").lower() == "true"
 
 

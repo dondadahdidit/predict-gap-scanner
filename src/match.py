@@ -39,7 +39,7 @@ def _parse_dt(s):
         return None
 
 
-def find_matches(kalshi_rows, poly_rows, min_similarity=0.42, max_date_gap_days=60,
+def find_matches(kalshi_rows, poly_rows, min_similarity=0.32, max_date_gap_days=60,
                   min_poly_liquidity=300.0):
     """Greedy best-first matching. Returns a list of match dicts with both
     sides' info plus the computed similarity and price gap.
