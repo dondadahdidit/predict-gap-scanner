@@ -40,7 +40,8 @@ def _parse_dt(s):
 
 
 def find_matches(kalshi_rows, poly_rows, min_similarity=0.32, max_date_gap_days=60,
-                  min_poly_liquidity=300.0):
+                  min_poly_liquidity=300.0, max_gap_for_weak_match=0.5,
+                  strong_similarity=0.6):
     """Greedy best-first matching. Returns a list of match dicts with both
     sides' info plus the computed similarity and price gap.
 
@@ -49,6 +50,12 @@ def find_matches(kalshi_rows, poly_rows, min_similarity=0.32, max_date_gap_days=
     own terms: Kalshi markets need SOME observed activity (open interest or
     24h volume above zero), Polymarket markets need a modest dollar-liquidity
     floor to exclude dead listings.
+
+    Sanity guard: a huge price gap (>max_gap_for_weak_match) on a pair whose
+    title similarity isn't very high (<strong_similarity) is far more likely
+    a bad text match (two different questions that happen to share words)
+    than a genuine cross-platform mispricing -- real arbitrage that wide gets
+    closed fast. We drop those rather than publish a misleading "opportunity".
     """
     k_rows = [r for r in kalshi_rows if r["liquidity"] > 0 or r["volume_24h"] > 0]
     p_rows = [r for r in poly_rows if r["liquidity"] >= min_poly_liquidity]
@@ -77,9 +84,11 @@ def find_matches(kalshi_rows, poly_rows, min_similarity=0.32, max_date_gap_days=
         pk = (p["platform"], p.get("id"))
         if kk in used_k or pk in used_p:
             continue
+        gap = abs(k["price"] - p["price"])
+        if gap > max_gap_for_weak_match and sim < strong_similarity:
+            continue
         used_k.add(kk)
         used_p.add(pk)
-        gap = abs(k["price"] - p["price"])
         matches.append({
             "similarity": round(sim, 3),
             "gap": round(gap, 4),
