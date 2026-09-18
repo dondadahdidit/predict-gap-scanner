@@ -3,7 +3,20 @@ name: Predict Gap Scan
 on:
   schedule:
     - cron: "15 */4 * * *"   # every 4 hours
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      debug_titles:
+        description: "Print sample titles + top similarity matches for tuning"
+        type: boolean
+        default: false
+      min_gap:
+        description: "Min gap threshold in points, e.g. 0.06 (blank = default)"
+        type: string
+        default: ""
+      min_similarity:
+        description: "Override min title similarity 0-1 (blank = default 0.42)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -23,6 +36,10 @@ jobs:
         run: pip install -q -r requirements.txt
 
       - name: Run scan
+        env:
+          DEBUG_TITLES: ${{ github.event.inputs.debug_titles }}
+          MIN_GAP: ${{ github.event.inputs.min_gap }}
+          MIN_SIMILARITY: ${{ github.event.inputs.min_similarity }}
         run: python src/scan.py
 
       - name: Commit updated site
