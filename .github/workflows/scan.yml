@@ -10,11 +10,11 @@ on:
         type: boolean
         default: false
       min_gap:
-        description: "Min gap threshold in points, e.g. 0.06 (blank = default)"
+        description: "Min gap threshold in points, e.g. 0.04 (blank = default)"
         type: string
         default: ""
       min_similarity:
-        description: "Override min title similarity 0-1 (blank = default 0.42)"
+        description: "Override min title similarity 0-1 (blank = default 0.32)"
         type: string
         default: ""
 
