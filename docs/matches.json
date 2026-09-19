@@ -1,35 +1,25 @@
 {
- "generated_at": "2026-09-19T04:36:47.411456+00:00",
+ "generated_at": "2026-09-19T12:30:10.090589+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.18,
-   "kalshi_title": "Will Anthropic announce a Millennium Prize solution before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.435,
-   "kalshi_url": "https://kalshi.com/markets/kxanthropicmillennium",
-   "polymarket_title": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
-   "polymarket_price": 0.615,
-   "polymarket_url": "https://polymarket.com/event/will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026"
+   "similarity": 0.375,
+   "gap": 0.265,
+   "kalshi_title": "Will Donald Trump visit Montana before Jan 1, 2027?",
+   "kalshi_price": 0.36,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpstates",
+   "polymarket_title": "Will Donald Trump visit North Korea in 2026?",
+   "polymarket_price": 0.095,
+   "polymarket_url": "https://polymarket.com/event/will-donald-trump-visit-north-korea-in-2026"
   },
   {
    "similarity": 0.364,
-   "gap": 0.105,
-   "kalshi_title": "Will Anthropic announce a Millennium Prize solution before Oct 1, 2026? \u2014 Before Oct 1, 2026",
-   "kalshi_price": 0.07,
-   "kalshi_url": "https://kalshi.com/markets/kxanthropicmillennium",
-   "polymarket_title": "Will OpenAI announce another Millennium Prize solution by September 30, 2026?",
-   "polymarket_price": 0.175,
-   "polymarket_url": "https://polymarket.com/event/will-openai-announce-another-millennium-prize-solution-by-september-30-2026"
-  },
-  {
-   "similarity": 0.6,
-   "gap": 0.045,
-   "kalshi_title": "Will OpenAI announce another Millennium Prize solution before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.63,
-   "kalshi_url": "https://kalshi.com/markets/kxopenaianothermillennium",
-   "polymarket_title": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
-   "polymarket_price": 0.585,
-   "polymarket_url": "https://polymarket.com/event/will-openai-announce-another-millennium-prize-solution-by-december-31-2026"
+   "gap": 0.23,
+   "kalshi_title": "Will Friedrich Merz leave Chancellor of Germany before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.515,
+   "kalshi_url": "https://kalshi.com/markets/kxleavemerz",
+   "polymarket_title": "Friedrich Merz out as Chancellor of Germany before December 31, 2026?",
+   "polymarket_price": 0.285,
+   "polymarket_url": "https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-2027"
   }
  ]
 }
