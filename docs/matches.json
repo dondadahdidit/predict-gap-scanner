@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-09-21T04:54:31.305091+00:00",
- "matches": []
+ "generated_at": "2026-09-21T15:06:27.531501+00:00",
+ "matches": [
+  {
+   "similarity": 0.375,
+   "gap": 0.123,
+   "kalshi_title": "Will Trump meet Sundar Pichai in September?",
+   "kalshi_price": 0.87,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpaimeet",
+   "polymarket_title": "Will Trump meet with Xi Jinping in September 2026?",
+   "polymarket_price": 0.993,
+   "polymarket_url": "https://polymarket.com/event/will-trump-meet-with-xi-jinping-in-september-2026-20260826"
+  }
+ ]
 }
