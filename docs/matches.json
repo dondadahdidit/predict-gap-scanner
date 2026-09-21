@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-21T15:06:27.531501+00:00",
+ "generated_at": "2026-09-21T20:25:57.303290+00:00",
  "matches": [
   {
    "similarity": 0.375,
-   "gap": 0.123,
-   "kalshi_title": "Will Trump meet Sundar Pichai in September?",
-   "kalshi_price": 0.87,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpaimeet",
-   "polymarket_title": "Will Trump meet with Xi Jinping in September 2026?",
-   "polymarket_price": 0.993,
-   "polymarket_url": "https://polymarket.com/event/will-trump-meet-with-xi-jinping-in-september-2026-20260826"
+   "gap": 0.225,
+   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.034999999999999996,
+   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
+   "polymarket_title": "Will Trump and Putin not meet?",
+   "polymarket_price": 0.26,
+   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-not-meet-432"
   }
  ]
 }
