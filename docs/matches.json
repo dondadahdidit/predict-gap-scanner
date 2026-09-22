@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-21T20:25:57.303290+00:00",
+ "generated_at": "2026-09-22T04:54:24.083691+00:00",
  "matches": [
   {
    "similarity": 0.375,
-   "gap": 0.225,
-   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.034999999999999996,
-   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
-   "polymarket_title": "Will Trump and Putin not meet?",
-   "polymarket_price": 0.26,
-   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-not-meet-432"
+   "gap": 0.0735,
+   "kalshi_title": "Will Israel and Qatar normalize relations before 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.0315,
+   "kalshi_url": "https://kalshi.com/markets/kxabrahamq",
+   "polymarket_title": "Israel and Saudi Arabia normalize relations before 2027?",
+   "polymarket_price": 0.105,
+   "polymarket_url": "https://polymarket.com/event/israel-and-saudi-arabia-normalize-relations-before-2027"
   }
  ]
 }
