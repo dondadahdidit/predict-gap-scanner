@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-23T19:41:18.410727+00:00",
+ "generated_at": "2026-09-23T22:57:22.727634+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.0405,
-   "kalshi_title": "Will Reza Pahlavi visit Iran before Jan 1, 2027? \u2014 Yes",
-   "kalshi_price": 0.0735,
-   "kalshi_url": "https://kalshi.com/markets/kxpahlavivisita",
-   "polymarket_title": "Will Reza Pahlavi enter Iran by December 31?",
-   "polymarket_price": 0.033,
-   "polymarket_url": "https://polymarket.com/event/will-reza-pahlavi-enter-iran-by-december-31-898-927"
+   "similarity": 0.417,
+   "gap": 0.08,
+   "kalshi_title": "Will OpenAI or Anthropic announces it has achieved recursive self-improvement before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.245,
+   "kalshi_url": "https://kalshi.com/markets/kxrsiannounce",
+   "polymarket_title": "OpenAI announces it has achieved AGI before 2027?",
+   "polymarket_price": 0.165,
+   "polymarket_url": "https://polymarket.com/event/openai-announces-it-has-achieved-agi-before-2027"
   }
  ]
 }
