@@ -1,4 +1,25 @@
 {
- "generated_at": "2026-09-23T04:44:23.846446+00:00",
- "matches": []
+ "generated_at": "2026-09-23T13:38:34.338090+00:00",
+ "matches": [
+  {
+   "similarity": 0.364,
+   "gap": 0.1575,
+   "kalshi_title": "Will Friedrich Merz leave Chancellor of Germany before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.165,
+   "kalshi_url": "https://kalshi.com/markets/kxleavemerz",
+   "polymarket_title": "Friedrich Merz out as Chancellor of Germany before September 30, 2026",
+   "polymarket_price": 0.0075,
+   "polymarket_url": "https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-september-30-2026"
+  },
+  {
+   "similarity": 0.417,
+   "gap": 0.07,
+   "kalshi_title": "Will OpenAI or Anthropic announces it has achieved recursive self-improvement before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.245,
+   "kalshi_url": "https://kalshi.com/markets/kxrsiannounce",
+   "polymarket_title": "OpenAI announces it has achieved AGI before 2027?",
+   "polymarket_price": 0.175,
+   "polymarket_url": "https://polymarket.com/event/openai-announces-it-has-achieved-agi-before-2027"
+  }
+ ]
 }
