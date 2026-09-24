@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-23T22:57:22.727634+00:00",
+ "generated_at": "2026-09-24T04:49:00.294768+00:00",
  "matches": [
   {
-   "similarity": 0.417,
-   "gap": 0.08,
-   "kalshi_title": "Will OpenAI or Anthropic announces it has achieved recursive self-improvement before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.245,
-   "kalshi_url": "https://kalshi.com/markets/kxrsiannounce",
-   "polymarket_title": "OpenAI announces it has achieved AGI before 2027?",
-   "polymarket_price": 0.165,
-   "polymarket_url": "https://polymarket.com/event/openai-announces-it-has-achieved-agi-before-2027"
+   "similarity": 0.429,
+   "gap": 0.0625,
+   "kalshi_title": "Will Trump meet Dario Amodei in September?",
+   "kalshi_price": 0.1,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpaimeet",
+   "polymarket_title": "Trump and Pezeshkian meet by September 30?",
+   "polymarket_price": 0.0375,
+   "polymarket_url": "https://polymarket.com/event/trump-and-pezeshkian-meet-by-september-30"
   }
  ]
 }
