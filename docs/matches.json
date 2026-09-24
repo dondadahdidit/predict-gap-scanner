@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-09-24T04:49:00.294768+00:00",
+ "generated_at": "2026-09-24T13:33:26.418053+00:00",
  "matches": [
   {
-   "similarity": 0.429,
-   "gap": 0.0625,
-   "kalshi_title": "Will Trump meet Dario Amodei in September?",
-   "kalshi_price": 0.1,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpaimeet",
-   "polymarket_title": "Trump and Pezeshkian meet by September 30?",
-   "polymarket_price": 0.0375,
-   "polymarket_url": "https://polymarket.com/event/trump-and-pezeshkian-meet-by-september-30"
+   "similarity": 0.444,
+   "gap": 0.454,
+   "kalshi_title": "Will Mar\u00eda Corina Machado visit Venezuela before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.45499999999999996,
+   "kalshi_url": "https://kalshi.com/markets/kxmachadovenezuela",
+   "polymarket_title": "Will Mar\u00eda Corina Machado be the leader of Venezuela end of 2026?",
+   "polymarket_price": 0.001,
+   "polymarket_url": "https://polymarket.com/event/will-mara-corina-machado-be-the-leader-of-venezuela-end-of-2026"
+  },
+  {
+   "similarity": 0.364,
+   "gap": 0.1,
+   "kalshi_title": "Will Friedrich Merz leave Chancellor of Germany before Jan 1, 2027?",
+   "kalshi_price": 0.155,
+   "kalshi_url": "https://kalshi.com/markets/kxleadersout",
+   "polymarket_title": "Friedrich Merz out as Chancellor of Germany before October 31, 2026?",
+   "polymarket_price": 0.055,
+   "polymarket_url": "https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-october-31-2026"
   }
  ]
 }
