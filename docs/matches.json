@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-09-27T05:17:38.280745+00:00",
- "matches": []
+ "generated_at": "2026-09-27T13:58:03.931668+00:00",
+ "matches": [
+  {
+   "similarity": 0.333,
+   "gap": 0.0535,
+   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.055,
+   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
+   "polymarket_title": "Will Zelenskyy and Putin meet next in Hungary before 2027?",
+   "polymarket_price": 0.0015,
+   "polymarket_url": "https://polymarket.com/event/will-zelenskyy-and-putin-meet-next-in-hungary"
+  }
+ ]
 }
