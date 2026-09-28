@@ -1,4 +1,25 @@
 {
- "generated_at": "2026-09-27T23:02:57.570833+00:00",
- "matches": []
+ "generated_at": "2026-09-28T05:22:36.109634+00:00",
+ "matches": [
+  {
+   "similarity": 0.6,
+   "gap": 0.15,
+   "kalshi_title": "Will OpenAI announce another Millennium Prize solution before Jan 1, 2028? \u2014 Before Jan 1, 2028",
+   "kalshi_price": 0.845,
+   "kalshi_url": "https://kalshi.com/markets/kxopenaianothermillennium",
+   "polymarket_title": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+   "polymarket_price": 0.695,
+   "polymarket_url": "https://polymarket.com/event/will-openai-announce-another-millennium-prize-solution-by-december-31-2027"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.0565,
+   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.06,
+   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
+   "polymarket_title": "Will Trump and Putin meet next in Finland?",
+   "polymarket_price": 0.0035,
+   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-meet-next-in-finland"
+  }
+ ]
 }
