@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-30T05:31:32.335368+00:00",
+ "generated_at": "2026-09-30T14:55:30.282049+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.2085,
-   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2028? \u2014 Before Jan 1, 2028",
-   "kalshi_price": 0.245,
-   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
-   "polymarket_title": "Will Putin and Zelenskyy meet next in Germany?",
-   "polymarket_price": 0.0365,
-   "polymarket_url": "https://polymarket.com/event/will-putin-and-zelenskyy-meet-next-in-germany"
+   "similarity": 0.429,
+   "gap": 0.141,
+   "kalshi_title": "Will Donald Trump visit Iran before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.029,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpiran",
+   "polymarket_title": "Will Donald Trump visit Japan in 2026?",
+   "polymarket_price": 0.17,
+   "polymarket_url": "https://polymarket.com/event/will-donald-trump-visit-japan-in-2026"
   }
  ]
 }
