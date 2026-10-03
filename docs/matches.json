@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-10-03T19:13:38.380683+00:00",
- "matches": []
+ "generated_at": "2026-10-03T23:03:09.733053+00:00",
+ "matches": [
+  {
+   "similarity": 0.375,
+   "gap": 0.18,
+   "kalshi_title": "Will Trump, Xi and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.33999999999999997,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpxiputin",
+   "polymarket_title": "Will Trump and Putin not meet?",
+   "polymarket_price": 0.16,
+   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-not-meet-432"
+  }
+ ]
 }
