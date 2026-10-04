@@ -1,25 +1,15 @@
 {
- "generated_at": "2026-10-04T05:51:15.808239+00:00",
+ "generated_at": "2026-10-04T14:06:41.601934+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.5,
-   "kalshi_title": "Will Trump, Xi and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.255,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpxiputin",
-   "polymarket_title": "Will Trump and Putin meet next in China?",
-   "polymarket_price": 0.755,
-   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-meet-next-in-china-784"
-  },
-  {
-   "similarity": 0.375,
-   "gap": 0.085,
-   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.075,
-   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
-   "polymarket_title": "Will Trump and Putin not meet?",
-   "polymarket_price": 0.16,
-   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-not-meet-432"
+   "similarity": 0.625,
+   "gap": 0.075,
+   "kalshi_title": "Will Trump name Jay Clayton as AI czar?",
+   "kalshi_price": 0.755,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpaiczar",
+   "polymarket_title": "Will Jay Clayton be Trump's AI czar?",
+   "polymarket_price": 0.83,
+   "polymarket_url": "https://polymarket.com/event/will-jay-clayton-be-trumps-ai-czar"
   }
  ]
 }
