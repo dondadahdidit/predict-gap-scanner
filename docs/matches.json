@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-04T14:06:41.601934+00:00",
+ "generated_at": "2026-10-04T19:36:53.140437+00:00",
  "matches": [
   {
-   "similarity": 0.625,
-   "gap": 0.075,
-   "kalshi_title": "Will Trump name Jay Clayton as AI czar?",
-   "kalshi_price": 0.755,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpaiczar",
-   "polymarket_title": "Will Jay Clayton be Trump's AI czar?",
-   "polymarket_price": 0.83,
-   "polymarket_url": "https://polymarket.com/event/will-jay-clayton-be-trumps-ai-czar"
+   "similarity": 0.364,
+   "gap": 0.12,
+   "kalshi_title": "Will Anthropic announce a Millennium Prize solution before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.315,
+   "kalshi_url": "https://kalshi.com/markets/kxanthropicmillennium",
+   "polymarket_title": "Will OpenAI announce another Millennium Prize solution by December 31, 2026?",
+   "polymarket_price": 0.195,
+   "polymarket_url": "https://polymarket.com/event/will-openai-announce-another-millennium-prize-solution-by-december-31-2026"
   }
  ]
 }
