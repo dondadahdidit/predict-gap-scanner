@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-10-08T21:19:24.010922+00:00",
- "matches": []
+ "generated_at": "2026-10-09T06:07:20.987669+00:00",
+ "matches": [
+  {
+   "similarity": 0.4,
+   "gap": 0.04,
+   "kalshi_title": "Will Donald Trump endorse Fl\u00e1vio Bolsonaro in the 2026 Brazilian presidential election before Oct 26, 2026? \u2014 Yes",
+   "kalshi_price": 0.265,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpflavio",
+   "polymarket_title": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+   "polymarket_price": 0.305,
+   "polymarket_url": "https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4"
+  }
+ ]
 }
