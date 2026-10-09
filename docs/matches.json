@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-09T06:07:20.987669+00:00",
+ "generated_at": "2026-10-09T15:18:06.390526+00:00",
  "matches": [
   {
-   "similarity": 0.4,
-   "gap": 0.04,
-   "kalshi_title": "Will Donald Trump endorse Fl\u00e1vio Bolsonaro in the 2026 Brazilian presidential election before Oct 26, 2026? \u2014 Yes",
-   "kalshi_price": 0.265,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpflavio",
-   "polymarket_title": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
-   "polymarket_price": 0.305,
-   "polymarket_url": "https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4"
+   "similarity": 0.333,
+   "gap": 0.23,
+   "kalshi_title": "Will Jorge Rodr\u00edguez de facto hold head of state of Venezuela at the end of 2026?",
+   "kalshi_price": 0.015,
+   "kalshi_url": "https://kalshi.com/markets/kxvenezdefacto",
+   "polymarket_title": "Will Delcy Rodr\u00edguez be the leader of Venezuela end of 2026?",
+   "polymarket_price": 0.245,
+   "polymarket_url": "https://polymarket.com/event/will-delcy-rodrguez-be-the-leader-of-venezuela-end-of-2026"
   }
  ]
 }
