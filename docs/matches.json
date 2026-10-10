@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-10-10T20:04:17.792645+00:00",
- "matches": []
+ "generated_at": "2026-10-10T23:33:15.602459+00:00",
+ "matches": [
+  {
+   "similarity": 0.364,
+   "gap": 0.0515,
+   "kalshi_title": "Will Friedrich Merz leave Chancellor of Germany before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.08499999999999999,
+   "kalshi_url": "https://kalshi.com/markets/kxleavemerz",
+   "polymarket_title": "Friedrich Merz out as Chancellor of Germany before November 30, 2026",
+   "polymarket_price": 0.0335,
+   "polymarket_url": "https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-november-30-2026"
+  }
+ ]
 }
