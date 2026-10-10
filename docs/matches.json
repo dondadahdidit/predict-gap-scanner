@@ -1,25 +1,15 @@
 {
- "generated_at": "2026-10-10T05:51:18.278704+00:00",
+ "generated_at": "2026-10-10T14:28:23.831342+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.23,
-   "kalshi_title": "Will Jorge Rodr\u00edguez de facto hold head of state of Venezuela at the end of 2026?",
-   "kalshi_price": 0.015,
-   "kalshi_url": "https://kalshi.com/markets/kxvenezdefacto",
-   "polymarket_title": "Will Delcy Rodr\u00edguez be the leader of Venezuela end of 2026?",
-   "polymarket_price": 0.245,
-   "polymarket_url": "https://polymarket.com/event/will-delcy-rodrguez-be-the-leader-of-venezuela-end-of-2026"
-  },
-  {
-   "similarity": 0.333,
-   "gap": 0.2285,
-   "kalshi_title": "Will Trump, Xi and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.23,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpxiputin",
-   "polymarket_title": "Will Trump and Putin meet next in Belarus?",
-   "polymarket_price": 0.0015,
-   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-meet-next-in-belarus-129"
+   "similarity": 0.385,
+   "gap": 0.1,
+   "kalshi_title": "Will Pete Hegseth announce their departure as Secretary of Defense before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.275,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethannounceout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
+   "polymarket_price": 0.175,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
   }
  ]
 }
