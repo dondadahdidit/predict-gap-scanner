@@ -1,25 +1,45 @@
 {
- "generated_at": "2026-10-11T20:15:52.276920+00:00",
+ "generated_at": "2026-10-11T23:43:54.820183+00:00",
  "matches": [
   {
-   "similarity": 0.4,
-   "gap": 0.485,
-   "kalshi_title": "Will Barack Obama endorse Mary Peltola in Alaska Senate before Nov 3, 2026?",
-   "kalshi_price": 0.25,
-   "kalshi_url": "https://kalshi.com/markets/kxobamaendorse",
-   "polymarket_title": "Will Mary Peltola win the Alaska Senate race in 2026?",
-   "polymarket_price": 0.735,
-   "polymarket_url": "https://polymarket.com/event/will-mary-peltola-win-the-alaska-senate-race-in-2026"
+   "similarity": 0.375,
+   "gap": 0.12,
+   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.07,
+   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
+   "polymarket_title": "Will Trump and Putin not meet?",
+   "polymarket_price": 0.19,
+   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-not-meet-432"
+  },
+  {
+   "similarity": 0.417,
+   "gap": 0.065,
+   "kalshi_title": "Will Donald Trump's approval rating on approval rating be below 35% during Dec 2025 to Dec 2026 according to VoteHub? \u2014 Below 35%",
+   "kalshi_price": 0.375,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpapprovalbelow",
+   "polymarket_title": "Will Trump's approval rating hit 35% in 2026?",
+   "polymarket_price": 0.31,
+   "polymarket_url": "https://polymarket.com/event/will-trumps-approval-rating-hit-35-in-2026"
   },
   {
    "similarity": 0.333,
-   "gap": 0.0455,
+   "gap": 0.0595,
    "kalshi_title": "Will Lula and Fl\u00e1vio Bolsonaro debate before the Brazil presidential runoff? \u2014 Before Oct 25, 2026",
-   "kalshi_price": 0.925,
+   "kalshi_price": 0.92,
    "kalshi_url": "https://kalshi.com/markets/kxlulaflaviodebate",
    "polymarket_title": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-   "polymarket_price": 0.8795,
+   "polymarket_price": 0.8605,
    "polymarket_url": "https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.0545,
+   "kalshi_title": "Will Putin and Zelenskyy meet in person before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.06,
+   "kalshi_url": "https://kalshi.com/markets/kxputinzelmeet",
+   "polymarket_title": "Will Zelenskyy and Putin meet next in Saudi Arabia before 2027?",
+   "polymarket_price": 0.0055,
+   "polymarket_url": "https://polymarket.com/event/will-zelenskyy-and-putin-meet-next-in-saudi-arabia"
   }
  ]
 }
