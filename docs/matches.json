@@ -1,4 +1,25 @@
 {
- "generated_at": "2026-10-11T14:55:21.095052+00:00",
- "matches": []
+ "generated_at": "2026-10-11T20:15:52.276920+00:00",
+ "matches": [
+  {
+   "similarity": 0.4,
+   "gap": 0.485,
+   "kalshi_title": "Will Barack Obama endorse Mary Peltola in Alaska Senate before Nov 3, 2026?",
+   "kalshi_price": 0.25,
+   "kalshi_url": "https://kalshi.com/markets/kxobamaendorse",
+   "polymarket_title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+   "polymarket_price": 0.735,
+   "polymarket_url": "https://polymarket.com/event/will-mary-peltola-win-the-alaska-senate-race-in-2026"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.0455,
+   "kalshi_title": "Will Lula and Fl\u00e1vio Bolsonaro debate before the Brazil presidential runoff? \u2014 Before Oct 25, 2026",
+   "kalshi_price": 0.925,
+   "kalshi_url": "https://kalshi.com/markets/kxlulaflaviodebate",
+   "polymarket_title": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+   "polymarket_price": 0.8795,
+   "polymarket_url": "https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election"
+  }
+ ]
 }
