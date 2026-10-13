@@ -1,15 +1,35 @@
 {
- "generated_at": "2026-10-13T19:16:17.001843+00:00",
+ "generated_at": "2026-10-13T23:44:11.281462+00:00",
  "matches": [
   {
-   "similarity": 0.385,
-   "gap": 0.1,
-   "kalshi_title": "Will Pete Hegseth announce their departure as Secretary of Defense before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "similarity": 0.5,
+   "gap": 0.05,
+   "kalshi_title": "Will Katie Zacharia be out as White House Press Secretary before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.365,
+   "kalshi_url": "https://kalshi.com/markets/kxzachariaout",
+   "polymarket_title": "Katie Zacharia out as Press Secretary by December 31?",
+   "polymarket_price": 0.315,
+   "polymarket_url": "https://polymarket.com/event/katie-zacharia-out-as-press-secretary-by-december-31"
+  },
+  {
+   "similarity": 0.412,
+   "gap": 0.05,
+   "kalshi_title": "Will Donald Trump make between 120 and 139 Truth Social posts the week of Oct 11, 2026? \u2014 120-139",
    "kalshi_price": 0.27,
-   "kalshi_url": "https://kalshi.com/markets/kxhegsethannounceout",
-   "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
-   "polymarket_price": 0.17,
-   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
+   "kalshi_url": "https://kalshi.com/markets/kxtruthsocial",
+   "polymarket_title": "Will Donald Trump post 120-139 Truth Social posts from October 9 to October 16, 2026?",
+   "polymarket_price": 0.32,
+   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-october-9-october-16-2026-120-139"
+  },
+  {
+   "similarity": 0.667,
+   "gap": 0.04,
+   "kalshi_title": "Will Gyanesh Kumar be out as Chief Election Commissioner of India before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.255,
+   "kalshi_url": "https://kalshi.com/markets/kxgyaneshout",
+   "polymarket_title": "Will Gyanesh Kumar be out as Chief Election Commissioner of India by December 31?",
+   "polymarket_price": 0.295,
+   "polymarket_url": "https://polymarket.com/event/will-gyanesh-kumar-be-out-as-chief-election-commissioner-of-india-by-december-31"
   }
  ]
 }
