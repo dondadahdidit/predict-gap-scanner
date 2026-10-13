@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-12T17:53:56.176478+00:00",
+ "generated_at": "2026-10-13T02:01:24.062548+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.455,
-   "kalshi_title": "Will Trump, Xi and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.33999999999999997,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpxiputin",
-   "polymarket_title": "Will Trump meet with Vladimir Putin in 2026?",
-   "polymarket_price": 0.795,
-   "polymarket_url": "https://polymarket.com/event/will-trump-meet-with-vladimir-putin-in-2026"
+   "similarity": 0.4,
+   "gap": 0.04,
+   "kalshi_title": "Will Donald Trump endorse Fl\u00e1vio Bolsonaro in the 2026 Brazilian presidential election before Oct 26, 2026? \u2014 Yes",
+   "kalshi_price": 0.20500000000000002,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpflavio",
+   "polymarket_title": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+   "polymarket_price": 0.245,
+   "polymarket_url": "https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4"
   }
  ]
 }
