@@ -1,6 +1,36 @@
 {
- "generated_at": "2026-10-14T20:12:27.394641+00:00",
+ "generated_at": "2026-10-14T23:15:23.549873+00:00",
  "matches": [
+  {
+   "similarity": 0.444,
+   "gap": 0.155,
+   "kalshi_title": "Will South Carolina enact a data center moratorium before 2028?",
+   "kalshi_price": 0.27999999999999997,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
+   "polymarket_title": "Will Louisiana enact a data center moratorium by December 31, 2027?",
+   "polymarket_price": 0.125,
+   "polymarket_url": "https://polymarket.com/event/will-louisiana-enact-a-data-center-moratorium-by-december-31-2027"
+  },
+  {
+   "similarity": 0.5,
+   "gap": 0.08,
+   "kalshi_title": "Will Tennessee enact a data center moratorium before 2028?",
+   "kalshi_price": 0.255,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
+   "polymarket_title": "Will Indiana enact a data center moratorium by December 31, 2027?",
+   "polymarket_price": 0.175,
+   "polymarket_url": "https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
+  },
+  {
+   "similarity": 0.462,
+   "gap": 0.07,
+   "kalshi_title": "Will Alexandre de Moraes leave Brazil's Supreme Court before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.235,
+   "kalshi_url": "https://kalshi.com/markets/kxdemoraesout",
+   "polymarket_title": "Alexandre de Moraes out as Brazil Supreme Court Justice?",
+   "polymarket_price": 0.165,
+   "polymarket_url": "https://polymarket.com/event/alexandre-de-moraes-out-as-brazil-supreme-court-justice"
+  },
   {
    "similarity": 0.364,
    "gap": 0.05,
