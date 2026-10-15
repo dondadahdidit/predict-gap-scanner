@@ -1,45 +1,25 @@
 {
- "generated_at": "2026-10-14T23:15:23.549873+00:00",
+ "generated_at": "2026-10-15T04:36:52.858463+00:00",
  "matches": [
   {
-   "similarity": 0.444,
-   "gap": 0.155,
-   "kalshi_title": "Will South Carolina enact a data center moratorium before 2028?",
-   "kalshi_price": 0.27999999999999997,
-   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
-   "polymarket_title": "Will Louisiana enact a data center moratorium by December 31, 2027?",
-   "polymarket_price": 0.125,
-   "polymarket_url": "https://polymarket.com/event/will-louisiana-enact-a-data-center-moratorium-by-december-31-2027"
+   "similarity": 0.5,
+   "gap": 0.11,
+   "kalshi_title": "Will Katie Zacharia be out as White House Press Secretary before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.365,
+   "kalshi_url": "https://kalshi.com/markets/kxzachariaout",
+   "polymarket_title": "Katie Zacharia out as Press Secretary by December 31?",
+   "polymarket_price": 0.255,
+   "polymarket_url": "https://polymarket.com/event/katie-zacharia-out-as-press-secretary-by-december-31"
   },
   {
    "similarity": 0.5,
-   "gap": 0.08,
-   "kalshi_title": "Will Tennessee enact a data center moratorium before 2028?",
-   "kalshi_price": 0.255,
-   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
-   "polymarket_title": "Will Indiana enact a data center moratorium by December 31, 2027?",
-   "polymarket_price": 0.175,
-   "polymarket_url": "https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
-  },
-  {
-   "similarity": 0.462,
-   "gap": 0.07,
-   "kalshi_title": "Will Alexandre de Moraes leave Brazil's Supreme Court before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.235,
-   "kalshi_url": "https://kalshi.com/markets/kxdemoraesout",
-   "polymarket_title": "Alexandre de Moraes out as Brazil Supreme Court Justice?",
-   "polymarket_price": 0.165,
-   "polymarket_url": "https://polymarket.com/event/alexandre-de-moraes-out-as-brazil-supreme-court-justice"
-  },
-  {
-   "similarity": 0.364,
-   "gap": 0.05,
-   "kalshi_title": "Will Friedrich Merz leave Chancellor of Germany before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.10500000000000001,
-   "kalshi_url": "https://kalshi.com/markets/kxleavemerz",
-   "polymarket_title": "Friedrich Merz out as Chancellor of Germany before December 31, 2026?",
-   "polymarket_price": 0.055,
-   "polymarket_url": "https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-2027"
+   "gap": 0.055,
+   "kalshi_title": "Will Ilhan Omar be arrested before Jan 2027?",
+   "kalshi_price": 0.185,
+   "kalshi_url": "https://kalshi.com/markets/kxarrest",
+   "polymarket_title": "Ilhan Omar arrested by December 31, 2026?",
+   "polymarket_price": 0.13,
+   "polymarket_url": "https://polymarket.com/event/ilhan-omar-arrested-by-december-31-2026"
   }
  ]
 }
