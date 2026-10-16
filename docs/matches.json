@@ -1,4 +1,85 @@
 {
- "generated_at": "2026-10-15T23:04:40.459926+00:00",
- "matches": []
+ "generated_at": "2026-10-16T04:30:38.730193+00:00",
+ "matches": [
+  {
+   "similarity": 0.4,
+   "gap": 0.5,
+   "kalshi_title": "Will Barack Obama endorse Mary Peltola in Alaska Senate before Nov 3, 2026?",
+   "kalshi_price": 0.23500000000000001,
+   "kalshi_url": "https://kalshi.com/markets/kxobamaendorse",
+   "polymarket_title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+   "polymarket_price": 0.735,
+   "polymarket_url": "https://polymarket.com/event/will-mary-peltola-win-the-alaska-senate-race-in-2026"
+  },
+  {
+   "similarity": 0.6,
+   "gap": 0.355,
+   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Feb 1, 2027? \u2014 Before Feb 1, 2027",
+   "kalshi_price": 0.575,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
+   "polymarket_price": 0.22,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
+  },
+  {
+   "similarity": 0.5,
+   "gap": 0.2735,
+   "kalshi_title": "Will Katie Zacharia be out as White House Press Secretary before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.375,
+   "kalshi_url": "https://kalshi.com/markets/kxzachariaout",
+   "polymarket_title": "Katie Zacharia out as Press Secretary by October 31?",
+   "polymarket_price": 0.1015,
+   "polymarket_url": "https://polymarket.com/event/katie-zacharia-out-as-press-secretary-by-october-31"
+  },
+  {
+   "similarity": 0.5,
+   "gap": 0.2305,
+   "kalshi_title": "Will Mar\u00eda Corina Machado be the head of state of Venezuela on Dec 31, 2026?",
+   "kalshi_price": 0.0445,
+   "kalshi_url": "https://kalshi.com/markets/kxvenezuelaleader",
+   "polymarket_title": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+   "polymarket_price": 0.275,
+   "polymarket_url": "https://polymarket.com/event/will-maria-corina-machado-enter-venezuela-by-december-31-20260728195714929"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.2035,
+   "kalshi_title": "Will Trump try to leave the USMCA before 2027? \u2014 Before 2027",
+   "kalshi_price": 0.175,
+   "kalshi_url": "https://kalshi.com/markets/kxusmca",
+   "polymarket_title": "Will no one leave the Trump Cabinet before 2027?",
+   "polymarket_price": 0.3785,
+   "polymarket_url": "https://polymarket.com/event/will-no-one-leave-the-trump-cabinet-before-2027-819"
+  },
+  {
+   "similarity": 0.6,
+   "gap": 0.178,
+   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.19,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by October 31?",
+   "polymarket_price": 0.012,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31"
+  },
+  {
+   "similarity": 0.5,
+   "gap": 0.1,
+   "kalshi_title": "Will Katie Zacharia be out as White House Press Secretary before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.485,
+   "kalshi_url": "https://kalshi.com/markets/kxzachariaout",
+   "polymarket_title": "Katie Zacharia out as Press Secretary by December 31?",
+   "polymarket_price": 0.385,
+   "polymarket_url": "https://polymarket.com/event/katie-zacharia-out-as-press-secretary-by-december-31"
+  },
+  {
+   "similarity": 0.4,
+   "gap": 0.0655,
+   "kalshi_title": "Will Nicol\u00e1s Maduro be the head of state of Venezuela on Dec 31, 2026?",
+   "kalshi_price": 0.775,
+   "kalshi_url": "https://kalshi.com/markets/kxvenezuelaleader",
+   "polymarket_title": "Will Nicol\u00e1s Maduro be the leader of Venezuela end of 2026?",
+   "polymarket_price": 0.7095,
+   "polymarket_url": "https://polymarket.com/event/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026"
+  }
+ ]
 }
