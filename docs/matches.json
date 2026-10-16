@@ -1,15 +1,45 @@
 {
- "generated_at": "2026-10-16T19:33:51.022899+00:00",
+ "generated_at": "2026-10-16T22:51:23.003464+00:00",
  "matches": [
   {
    "similarity": 0.4,
-   "gap": 0.0505,
-   "kalshi_title": "Will Nicol\u00e1s Maduro be the head of state of Venezuela on Dec 31, 2026?",
-   "kalshi_price": 0.765,
-   "kalshi_url": "https://kalshi.com/markets/kxvenezuelaleader",
-   "polymarket_title": "Will Nicol\u00e1s Maduro be the leader of Venezuela end of 2026?",
-   "polymarket_price": 0.7145,
-   "polymarket_url": "https://polymarket.com/event/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026"
+   "gap": 0.19,
+   "kalshi_title": "Will Mar\u00eda Corina Machado visit Venezuela before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.245,
+   "kalshi_url": "https://kalshi.com/markets/kxmachadovenezuela",
+   "polymarket_title": "Will Mar\u00eda Corina Machado enter Venezuela by October 31?",
+   "polymarket_price": 0.055,
+   "polymarket_url": "https://polymarket.com/event/will-maria-corina-machado-enter-venezuela-by-october-310728195821515"
+  },
+  {
+   "similarity": 0.5,
+   "gap": 0.145,
+   "kalshi_title": "Will Tennessee enact a data center moratorium before 2028?",
+   "kalshi_price": 0.27,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
+   "polymarket_title": "Will Louisiana enact a data center moratorium by December 31, 2027?",
+   "polymarket_price": 0.125,
+   "polymarket_url": "https://polymarket.com/event/will-louisiana-enact-a-data-center-moratorium-by-december-31-2027"
+  },
+  {
+   "similarity": 0.375,
+   "gap": 0.125,
+   "kalshi_title": "Will Trump, Xi and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.355,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpxiputin",
+   "polymarket_title": "Will Trump and Putin not meet?",
+   "polymarket_price": 0.23,
+   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-not-meet-432"
+  },
+  {
+   "similarity": 0.444,
+   "gap": 0.055,
+   "kalshi_title": "Will South Carolina enact a data center moratorium before 2028?",
+   "kalshi_price": 0.26,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
+   "polymarket_title": "Will Oklahoma enact a data center moratorium by December 31, 2027?",
+   "polymarket_price": 0.205,
+   "polymarket_url": "https://polymarket.com/event/will-oklahoma-enact-a-data-center-moratorium-by-december-31-2027"
   }
  ]
 }
