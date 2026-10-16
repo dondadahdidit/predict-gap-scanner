@@ -1,25 +1,15 @@
 {
- "generated_at": "2026-10-16T13:15:07.800654+00:00",
+ "generated_at": "2026-10-16T19:33:51.022899+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.495,
-   "kalshi_title": "Will Donald Trump meet in person Vladimir Putin before Jan 1, 2027?",
-   "kalshi_price": 0.74,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpmeeting",
-   "polymarket_title": "Will Trump and Putin not meet?",
-   "polymarket_price": 0.245,
-   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-not-meet-432"
-  },
-  {
-   "similarity": 0.333,
-   "gap": 0.4455,
-   "kalshi_title": "Will any state enact data center moratorium legislation before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.45999999999999996,
-   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumlaw",
-   "polymarket_title": "Will Indiana enact a data center moratorium by December 31, 2026?",
-   "polymarket_price": 0.0145,
-   "polymarket_url": "https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2026"
+   "similarity": 0.4,
+   "gap": 0.0505,
+   "kalshi_title": "Will Nicol\u00e1s Maduro be the head of state of Venezuela on Dec 31, 2026?",
+   "kalshi_price": 0.765,
+   "kalshi_url": "https://kalshi.com/markets/kxvenezuelaleader",
+   "polymarket_title": "Will Nicol\u00e1s Maduro be the leader of Venezuela end of 2026?",
+   "polymarket_price": 0.7145,
+   "polymarket_url": "https://polymarket.com/event/will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026"
   }
  ]
 }
