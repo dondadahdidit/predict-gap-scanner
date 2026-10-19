@@ -1,4 +1,25 @@
 {
- "generated_at": "2026-10-19T04:39:02.977724+00:00",
- "matches": []
+ "generated_at": "2026-10-19T15:35:51.396357+00:00",
+ "matches": [
+  {
+   "similarity": 0.5,
+   "gap": 0.36,
+   "kalshi_title": "Will Tennessee enact a data center moratorium before 2028?",
+   "kalshi_price": 0.495,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
+   "polymarket_title": "Will Indiana enact a data center moratorium by December 31, 2027?",
+   "polymarket_price": 0.135,
+   "polymarket_url": "https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
+  },
+  {
+   "similarity": 0.444,
+   "gap": 0.04,
+   "kalshi_title": "Will Donald Trump meet in person Vladimir Putin before Jan 1, 2027?",
+   "kalshi_price": 0.815,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpmeeting",
+   "polymarket_title": "Will Trump meet with Vladimir Putin in 2026?",
+   "polymarket_price": 0.855,
+   "polymarket_url": "https://polymarket.com/event/will-trump-meet-with-vladimir-putin-in-2026"
+  }
+ ]
 }
