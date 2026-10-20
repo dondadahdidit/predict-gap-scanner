@@ -1,15 +1,35 @@
 {
- "generated_at": "2026-10-20T20:00:37.007629+00:00",
+ "generated_at": "2026-10-20T23:11:19.413498+00:00",
  "matches": [
   {
+   "similarity": 0.4,
+   "gap": 0.1095,
+   "kalshi_title": "Will Donald Trump endorse Fl\u00e1vio Bolsonaro in the 2026 Brazilian presidential election before Oct 26, 2026? \u2014 Yes",
+   "kalshi_price": 0.18,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpflavio",
+   "polymarket_title": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8\u201312%?",
+   "polymarket_price": 0.0705,
+   "polymarket_url": "https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-812"
+  },
+  {
    "similarity": 0.375,
-   "gap": 0.065,
-   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.08499999999999999,
-   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
-   "polymarket_title": "Will Trump and Putin not meet?",
-   "polymarket_price": 0.15,
-   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-not-meet-432"
+   "gap": 0.053,
+   "kalshi_title": "Will Putin and Zelenskyy meet in person before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.08,
+   "kalshi_url": "https://kalshi.com/markets/kxputinzelmeet",
+   "polymarket_title": "Will Zelenskyy and Putin meet next in US before 2027?",
+   "polymarket_price": 0.027,
+   "polymarket_url": "https://polymarket.com/event/will-zelenskyy-and-putin-meet-next-in-us"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.04,
+   "kalshi_title": "Will another country leave OPEC in 2026? \u2014 Yes",
+   "kalshi_price": 0.1,
+   "kalshi_url": "https://kalshi.com/markets/kxleaveopec",
+   "polymarket_title": "Will Russia invade another country in 2026?",
+   "polymarket_price": 0.06,
+   "polymarket_url": "https://polymarket.com/event/will-russia-invade-another-country-in-2026"
   }
  ]
 }
