@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-21T20:09:35.323643+00:00",
+ "generated_at": "2026-10-21T23:18:25.620651+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.175,
-   "kalshi_title": "Will Jorge Rodr\u00edguez de facto hold head of state of Venezuela at the end of 2026?",
-   "kalshi_price": 0.02,
-   "kalshi_url": "https://kalshi.com/markets/kxvenezdefacto",
-   "polymarket_title": "Will Delcy Rodr\u00edguez be the leader of Venezuela end of 2026?",
-   "polymarket_price": 0.195,
-   "polymarket_url": "https://polymarket.com/event/will-delcy-rodrguez-be-the-leader-of-venezuela-end-of-2026"
+   "similarity": 0.4,
+   "gap": 0.49,
+   "kalshi_title": "Will Barack Obama endorse Mary Peltola in Alaska Senate before Nov 3, 2026?",
+   "kalshi_price": 0.255,
+   "kalshi_url": "https://kalshi.com/markets/kxobamaendorse",
+   "polymarket_title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+   "polymarket_price": 0.745,
+   "polymarket_url": "https://polymarket.com/event/will-mary-peltola-win-the-alaska-senate-race-in-2026"
   }
  ]
 }
