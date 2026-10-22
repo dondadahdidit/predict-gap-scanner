@@ -1,15 +1,45 @@
 {
- "generated_at": "2026-10-21T23:18:25.620651+00:00",
+ "generated_at": "2026-10-22T04:42:25.521844+00:00",
  "matches": [
   {
    "similarity": 0.4,
-   "gap": 0.49,
+   "gap": 0.495,
    "kalshi_title": "Will Barack Obama endorse Mary Peltola in Alaska Senate before Nov 3, 2026?",
-   "kalshi_price": 0.255,
+   "kalshi_price": 0.25,
    "kalshi_url": "https://kalshi.com/markets/kxobamaendorse",
    "polymarket_title": "Will Mary Peltola win the Alaska Senate race in 2026?",
    "polymarket_price": 0.745,
    "polymarket_url": "https://polymarket.com/event/will-mary-peltola-win-the-alaska-senate-race-in-2026"
+  },
+  {
+   "similarity": 0.5,
+   "gap": 0.365,
+   "kalshi_title": "Will Tennessee enact a data center moratorium before 2028?",
+   "kalshi_price": 0.5,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
+   "polymarket_title": "Will Indiana enact a data center moratorium by December 31, 2027?",
+   "polymarket_price": 0.135,
+   "polymarket_url": "https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
+  },
+  {
+   "similarity": 0.444,
+   "gap": 0.305,
+   "kalshi_title": "Will South Carolina enact a data center moratorium before 2028?",
+   "kalshi_price": 0.5,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
+   "polymarket_title": "Will Texas enact a data center moratorium by December 31, 2027?",
+   "polymarket_price": 0.195,
+   "polymarket_url": "https://polymarket.com/event/will-texas-enact-a-data-center-moratorium-by-december-31-2027"
+  },
+  {
+   "similarity": 0.6,
+   "gap": 0.215,
+   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Feb 1, 2027? \u2014 Before Feb 1, 2027",
+   "kalshi_price": 0.455,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
+   "polymarket_price": 0.24,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
   }
  ]
 }
