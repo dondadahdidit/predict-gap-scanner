@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-10-22T20:06:45.311416+00:00",
+ "generated_at": "2026-10-22T23:22:41.324159+00:00",
  "matches": [
   {
-   "similarity": 0.4,
-   "gap": 0.495,
-   "kalshi_title": "Will Barack Obama endorse Mary Peltola in Alaska Senate before Nov 3, 2026?",
-   "kalshi_price": 0.25,
-   "kalshi_url": "https://kalshi.com/markets/kxobamaendorse",
-   "polymarket_title": "Will Mary Peltola win the Alaska Senate race in 2026?",
-   "polymarket_price": 0.745,
-   "polymarket_url": "https://polymarket.com/event/will-mary-peltola-win-the-alaska-senate-race-in-2026"
+   "similarity": 0.333,
+   "gap": 0.04,
+   "kalshi_title": "Will France declare a state of emergency before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.225,
+   "kalshi_url": "https://kalshi.com/markets/kxfranceemergency",
+   "polymarket_title": "France declares state of emergency by December 31, 2026?",
+   "polymarket_price": 0.185,
+   "polymarket_url": "https://polymarket.com/event/france-declares-state-of-emergency-by-december-31-2026"
   },
   {
-   "similarity": 0.5,
-   "gap": 0.2535,
-   "kalshi_title": "Will Mar\u00eda Corina Machado be the head of state of Venezuela on Dec 31, 2026?",
-   "kalshi_price": 0.0565,
-   "kalshi_url": "https://kalshi.com/markets/kxvenezuelaleader",
-   "polymarket_title": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
-   "polymarket_price": 0.31,
-   "polymarket_url": "https://polymarket.com/event/will-maria-corina-machado-enter-venezuela-by-december-31-20260728195714929"
+   "similarity": 0.333,
+   "gap": 0.04,
+   "kalshi_title": "Will France declare a state of emergency before Nov 1, 2026? \u2014 Before Nov 1, 2026",
+   "kalshi_price": 0.10500000000000001,
+   "kalshi_url": "https://kalshi.com/markets/kxfranceemergency",
+   "polymarket_title": "France declares state of emergency by October 31, 2026?",
+   "polymarket_price": 0.065,
+   "polymarket_url": "https://polymarket.com/event/france-declares-state-of-emergency-by-october-31-2026"
   }
  ]
 }
