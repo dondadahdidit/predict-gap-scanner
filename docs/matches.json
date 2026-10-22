@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T13:47:15.073004+00:00",
+ "generated_at": "2026-10-22T20:06:45.311416+00:00",
  "matches": [
   {
    "similarity": 0.4,
@@ -12,24 +12,14 @@
    "polymarket_url": "https://polymarket.com/event/will-mary-peltola-win-the-alaska-senate-race-in-2026"
   },
   {
-   "similarity": 0.333,
-   "gap": 0.1635,
-   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.165,
-   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
-   "polymarket_title": "Will Zelenskyy and Putin meet next in Kazakhstan before 2027?",
-   "polymarket_price": 0.0015,
-   "polymarket_url": "https://polymarket.com/event/will-zelenskyy-and-putin-meet-next-in-kazakhstan-485-344"
-  },
-  {
    "similarity": 0.5,
-   "gap": 0.155,
-   "kalshi_title": "Will Ilhan Omar be arrested before Jan 2027?",
-   "kalshi_price": 0.325,
-   "kalshi_url": "https://kalshi.com/markets/kxarrest",
-   "polymarket_title": "Ilhan Omar arrested by December 31, 2026?",
-   "polymarket_price": 0.17,
-   "polymarket_url": "https://polymarket.com/event/ilhan-omar-arrested-by-december-31-2026"
+   "gap": 0.2535,
+   "kalshi_title": "Will Mar\u00eda Corina Machado be the head of state of Venezuela on Dec 31, 2026?",
+   "kalshi_price": 0.0565,
+   "kalshi_url": "https://kalshi.com/markets/kxvenezuelaleader",
+   "polymarket_title": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+   "polymarket_price": 0.31,
+   "polymarket_url": "https://polymarket.com/event/will-maria-corina-machado-enter-venezuela-by-december-31-20260728195714929"
   }
  ]
 }
