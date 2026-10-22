@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T04:42:25.521844+00:00",
+ "generated_at": "2026-10-22T13:47:15.073004+00:00",
  "matches": [
   {
    "similarity": 0.4,
@@ -12,34 +12,24 @@
    "polymarket_url": "https://polymarket.com/event/will-mary-peltola-win-the-alaska-senate-race-in-2026"
   },
   {
+   "similarity": 0.333,
+   "gap": 0.1635,
+   "kalshi_title": "Will Trump, Zelenskyy and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.165,
+   "kalshi_url": "https://kalshi.com/markets/kxtrilateral",
+   "polymarket_title": "Will Zelenskyy and Putin meet next in Kazakhstan before 2027?",
+   "polymarket_price": 0.0015,
+   "polymarket_url": "https://polymarket.com/event/will-zelenskyy-and-putin-meet-next-in-kazakhstan-485-344"
+  },
+  {
    "similarity": 0.5,
-   "gap": 0.365,
-   "kalshi_title": "Will Tennessee enact a data center moratorium before 2028?",
-   "kalshi_price": 0.5,
-   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
-   "polymarket_title": "Will Indiana enact a data center moratorium by December 31, 2027?",
-   "polymarket_price": 0.135,
-   "polymarket_url": "https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
-  },
-  {
-   "similarity": 0.444,
-   "gap": 0.305,
-   "kalshi_title": "Will South Carolina enact a data center moratorium before 2028?",
-   "kalshi_price": 0.5,
-   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
-   "polymarket_title": "Will Texas enact a data center moratorium by December 31, 2027?",
-   "polymarket_price": 0.195,
-   "polymarket_url": "https://polymarket.com/event/will-texas-enact-a-data-center-moratorium-by-december-31-2027"
-  },
-  {
-   "similarity": 0.6,
-   "gap": 0.215,
-   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Feb 1, 2027? \u2014 Before Feb 1, 2027",
-   "kalshi_price": 0.455,
-   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
-   "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
-   "polymarket_price": 0.24,
-   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
+   "gap": 0.155,
+   "kalshi_title": "Will Ilhan Omar be arrested before Jan 2027?",
+   "kalshi_price": 0.325,
+   "kalshi_url": "https://kalshi.com/markets/kxarrest",
+   "polymarket_title": "Ilhan Omar arrested by December 31, 2026?",
+   "polymarket_price": 0.17,
+   "polymarket_url": "https://polymarket.com/event/ilhan-omar-arrested-by-december-31-2026"
   }
  ]
 }
