@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-10-23T04:47:33.249231+00:00",
- "matches": []
+ "generated_at": "2026-10-23T13:25:30.990331+00:00",
+ "matches": [
+  {
+   "similarity": 0.4,
+   "gap": 0.21,
+   "kalshi_title": "Will Mar\u00eda Corina Machado visit Venezuela before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.445,
+   "kalshi_url": "https://kalshi.com/markets/kxmachadovenezuela",
+   "polymarket_title": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+   "polymarket_price": 0.235,
+   "polymarket_url": "https://polymarket.com/event/will-maria-corina-machado-enter-venezuela-by-december-31-20260728195714929"
+  }
+ ]
 }
