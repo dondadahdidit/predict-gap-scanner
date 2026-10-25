@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-10-25T04:39:22.826431+00:00",
+ "generated_at": "2026-10-25T13:11:29.657203+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.3365,
-   "kalshi_title": "Will any state enact data center moratorium legislation before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.38,
-   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumlaw",
-   "polymarket_title": "Will Missouri enact a data center moratorium by December 31, 2026?",
-   "polymarket_price": 0.0435,
-   "polymarket_url": "https://polymarket.com/event/will-missouri-enact-a-data-center-moratorium-by-december-31-2026"
+   "similarity": 0.385,
+   "gap": 0.175,
+   "kalshi_title": "Will Pete Hegseth announce their departure as Secretary of Defense before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.315,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethannounceout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by November 30?",
+   "polymarket_price": 0.14,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433"
   },
   {
-   "similarity": 0.333,
-   "gap": 0.225,
-   "kalshi_title": "Will Trump, Xi and Putin meet together before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.5549999999999999,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpxiputin",
-   "polymarket_title": "Will Trump and Putin meet next in China?",
-   "polymarket_price": 0.78,
-   "polymarket_url": "https://polymarket.com/event/will-trump-and-putin-meet-next-in-china-784"
+   "similarity": 0.385,
+   "gap": 0.1745,
+   "kalshi_title": "Will Pete Hegseth announce their departure as Secretary of Defense before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.185,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethannounceout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by October 31?",
+   "polymarket_price": 0.0105,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31"
   }
  ]
 }
