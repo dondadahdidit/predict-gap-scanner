@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-10-27T14:30:47.603627+00:00",
+ "generated_at": "2026-10-27T20:42:14.654242+00:00",
  "matches": [
   {
-   "similarity": 0.556,
-   "gap": 0.19,
-   "kalshi_title": "Will South Carolina enact a data center moratorium before 2028?",
-   "kalshi_price": 0.065,
-   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
-   "polymarket_title": "Will North Carolina enact a data center moratorium by December 31, 2027?",
-   "polymarket_price": 0.255,
-   "polymarket_url": "https://polymarket.com/event/will-north-carolina-enact-a-data-center-moratorium-by-december-31-2027"
+   "similarity": 0.385,
+   "gap": 0.2565,
+   "kalshi_title": "Will Pete Hegseth announce their departure as Secretary of Defense before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.26,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethannounceout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by October 31?",
+   "polymarket_price": 0.0035,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31"
+  },
+  {
+   "similarity": 0.385,
+   "gap": 0.24,
+   "kalshi_title": "Will Pete Hegseth announce their departure as Secretary of Defense before Nov 1, 2026? \u2014 Before Nov 1, 2026",
+   "kalshi_price": 0.005,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethannounceout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by November 30?",
+   "polymarket_price": 0.245,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433"
   }
  ]
 }
