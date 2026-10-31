@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-10-30T20:47:48.916250+00:00",
- "matches": []
+ "generated_at": "2026-10-31T05:38:24.345518+00:00",
+ "matches": [
+  {
+   "similarity": 0.333,
+   "gap": 0.37,
+   "kalshi_title": "Will any state enact data center moratorium legislation before Jul 1, 2027? \u2014 Before Jul 1, 2027",
+   "kalshi_price": 0.55,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumlaw",
+   "polymarket_title": "Will Oklahoma enact a data center moratorium by June 30, 2027?",
+   "polymarket_price": 0.18,
+   "polymarket_url": "https://polymarket.com/event/will-oklahoma-enact-a-data-center-moratorium-by-june-30-2027"
+  }
+ ]
 }
