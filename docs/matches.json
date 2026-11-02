@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-11-02T05:59:38.196348+00:00",
- "matches": []
+ "generated_at": "2026-11-02T18:21:09.988130+00:00",
+ "matches": [
+  {
+   "similarity": 0.4,
+   "gap": 0.3505,
+   "kalshi_title": "Will Trump release new UFO files before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.585,
+   "kalshi_url": "https://kalshi.com/markets/kxuapfiles",
+   "polymarket_title": "Trump declassifies new UFO files by December 31?",
+   "polymarket_price": 0.9355,
+   "polymarket_url": "https://polymarket.com/event/trump-declassifies-new-ufo-files-by-december-31-20261026"
+  }
+ ]
 }
