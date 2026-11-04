@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-11-04T00:36:59.739154+00:00",
+ "generated_at": "2026-11-04T12:06:50.945975+00:00",
  "matches": [
   {
-   "similarity": 0.375,
-   "gap": 0.0535,
-   "kalshi_title": "Will Putin and Zelenskyy meet in person before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.055,
-   "kalshi_url": "https://kalshi.com/markets/kxputinzelmeet",
-   "polymarket_title": "Will Zelenskyy and Putin meet next in Kazakhstan before 2027?",
-   "polymarket_price": 0.0015,
-   "polymarket_url": "https://polymarket.com/event/will-zelenskyy-and-putin-meet-next-in-kazakhstan-485-344"
+   "similarity": 0.385,
+   "gap": 0.21,
+   "kalshi_title": "Will Pete Hegseth announce their departure as Secretary of Defense before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.655,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethannounceout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
+   "polymarket_price": 0.445,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
+  },
+  {
+   "similarity": 0.385,
+   "gap": 0.045,
+   "kalshi_title": "Will Pete Hegseth announce their departure as Secretary of Defense before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.35,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethannounceout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by November 30?",
+   "polymarket_price": 0.305,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433"
   }
  ]
 }
