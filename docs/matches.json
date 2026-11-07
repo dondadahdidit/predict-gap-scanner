@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-07T20:14:29.989559+00:00",
+ "generated_at": "2026-11-07T23:39:47.078302+00:00",
  "matches": [
   {
-   "similarity": 0.5,
-   "gap": 0.205,
-   "kalshi_title": "Will Wisconsin enact a data center moratorium before 2028?",
-   "kalshi_price": 0.32,
-   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
-   "polymarket_title": "Will Louisiana enact a data center moratorium by December 31, 2027?",
-   "polymarket_price": 0.115,
-   "polymarket_url": "https://polymarket.com/event/will-louisiana-enact-a-data-center-moratorium-by-december-31-2027"
+   "similarity": 0.333,
+   "gap": 0.065,
+   "kalshi_title": "Will Kristi Noem leave the Trump administration before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.26,
+   "kalshi_url": "https://kalshi.com/markets/kxleavenoem",
+   "polymarket_title": "Will Pete Hegseth leave the Trump administration before 2027?",
+   "polymarket_price": 0.325,
+   "polymarket_url": "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-administration-before-2027"
   }
  ]
 }
