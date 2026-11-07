@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-11-07T14:54:10.804749+00:00",
- "matches": []
+ "generated_at": "2026-11-07T20:14:29.989559+00:00",
+ "matches": [
+  {
+   "similarity": 0.5,
+   "gap": 0.205,
+   "kalshi_title": "Will Wisconsin enact a data center moratorium before 2028?",
+   "kalshi_price": 0.32,
+   "kalshi_url": "https://kalshi.com/markets/kxdcmoratoriumstates",
+   "polymarket_title": "Will Louisiana enact a data center moratorium by December 31, 2027?",
+   "polymarket_price": 0.115,
+   "polymarket_url": "https://polymarket.com/event/will-louisiana-enact-a-data-center-moratorium-by-december-31-2027"
+  }
+ ]
 }
