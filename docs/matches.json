@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-11-09T18:46:44.768884+00:00",
- "matches": []
+ "generated_at": "2026-11-10T02:44:19.656918+00:00",
+ "matches": [
+  {
+   "similarity": 0.429,
+   "gap": 0.049,
+   "kalshi_title": "Will Trump be impeached and removed from office? \u2014 Before Jan 1, 2028",
+   "kalshi_price": 0.125,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpremove",
+   "polymarket_title": "Trump impeached and removed before 2028?",
+   "polymarket_price": 0.174,
+   "polymarket_url": "https://polymarket.com/event/trump-impeached-and-removed-before-2028"
+  }
+ ]
 }
