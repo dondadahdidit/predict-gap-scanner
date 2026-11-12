@@ -1,65 +1,15 @@
 {
- "generated_at": "2026-11-11T22:42:02.801970+00:00",
+ "generated_at": "2026-11-12T07:08:26.325732+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.5,
-   "kalshi_title": "Will Putin and Zelenskyy meet in person before Jan 1, 2028? \u2014 Before Jan 1, 2028",
-   "kalshi_price": 0.23,
-   "kalshi_url": "https://kalshi.com/markets/kxputinzelmeet",
-   "polymarket_title": "Will Putin and Zelenskyy not meet by December 31, 2027?",
-   "polymarket_price": 0.73,
-   "polymarket_url": "https://polymarket.com/event/will-putin-and-zelenskyy-not-meet-by-december-31-2027"
-  },
-  {
-   "similarity": 0.6,
-   "gap": 0.12,
-   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Nov 16, 2026? \u2014 Before Nov 16, 2026",
-   "kalshi_price": 0.015,
-   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
-   "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
-   "polymarket_price": 0.135,
-   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
-  },
-  {
-   "similarity": 0.6,
-   "gap": 0.077,
-   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.125,
-   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
-   "polymarket_title": "Pete Hegseth out as Secretary of Defense by November 30?",
-   "polymarket_price": 0.048,
-   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433"
-  },
-  {
-   "similarity": 0.429,
-   "gap": 0.07,
-   "kalshi_title": "Will Pete Hegseth be impeached before Apr 1, 2027? \u2014 Before Apr 1, 2027",
-   "kalshi_price": 0.64,
-   "kalshi_url": "https://kalshi.com/markets/kxhegsethimpeach",
-   "polymarket_title": "Pete Hegseth impeached by March 31, 2027?",
-   "polymarket_price": 0.57,
-   "polymarket_url": "https://polymarket.com/event/pete-hegseth-impeached-by-march-31-2027"
-  },
-  {
-   "similarity": 0.333,
-   "gap": 0.06,
-   "kalshi_title": "Will Kristi Noem leave the Trump administration before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.195,
-   "kalshi_url": "https://kalshi.com/markets/kxleavenoem",
-   "polymarket_title": "Will Pete Hegseth leave the Trump administration before 2027?",
-   "polymarket_price": 0.135,
-   "polymarket_url": "https://polymarket.com/event/will-pete-hegseth-leave-the-trump-administration-before-2027"
-  },
-  {
-   "similarity": 0.375,
-   "gap": 0.053,
-   "kalshi_title": "Will Putin and Zelenskyy meet in person before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.05500000000000001,
-   "kalshi_url": "https://kalshi.com/markets/kxputinzelmeet",
-   "polymarket_title": "Will Zelenskyy  and Putin meet next in Belarus before 2027?",
-   "polymarket_price": 0.002,
-   "polymarket_url": "https://polymarket.com/event/will-zelenskyy-and-putin-meet-next-in-belarus"
+   "similarity": 0.444,
+   "gap": 0.0445,
+   "kalshi_title": "Will Donald Trump meet in person Vladimir Putin before Jan 1, 2027?",
+   "kalshi_price": 0.8905000000000001,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpmeeting",
+   "polymarket_title": "Will Trump meet with Vladimir Putin in 2026?",
+   "polymarket_price": 0.935,
+   "polymarket_url": "https://polymarket.com/event/will-trump-meet-with-vladimir-putin-in-2026"
   }
  ]
 }
