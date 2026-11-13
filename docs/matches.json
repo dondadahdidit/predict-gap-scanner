@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-11-12T16:47:52.661286+00:00",
+ "generated_at": "2026-11-13T01:04:18.853476+00:00",
  "matches": [
   {
    "similarity": 0.6,
-   "gap": 0.165,
+   "gap": 0.145,
    "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Nov 16, 2026? \u2014 Before Nov 16, 2026",
    "kalshi_price": 0.01,
    "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
    "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
-   "polymarket_price": 0.175,
+   "polymarket_price": 0.155,
    "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
   },
   {
    "similarity": 0.6,
-   "gap": 0.1075,
+   "gap": 0.0935,
    "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.155,
+   "kalshi_price": 0.14500000000000002,
    "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
    "polymarket_title": "Pete Hegseth out as Secretary of Defense by November 30?",
-   "polymarket_price": 0.0475,
+   "polymarket_price": 0.0515,
    "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433"
   },
   {
-   "similarity": 0.385,
-   "gap": 0.055,
-   "kalshi_title": "Will Marco Rubio announce their departure as Secretary of State before Apr 1, 2027? \u2014 Before Apr 1, 2027",
-   "kalshi_price": 0.26,
-   "kalshi_url": "https://kalshi.com/markets/kxrubioannounceout",
-   "polymarket_title": "Marco Rubio out as Secretary of State by March 31, 2027?",
-   "polymarket_price": 0.205,
-   "polymarket_url": "https://polymarket.com/event/marco-rubio-out-as-secretary-of-state-by-march-31-2027"
-  },
-  {
    "similarity": 0.6,
-   "gap": 0.047,
+   "gap": 0.0585,
    "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Dec 1, 2026? \u2014 Before Dec 1, 2026",
-   "kalshi_price": 0.055,
+   "kalshi_price": 0.065,
    "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
    "polymarket_title": "Pete Hegseth out as Secretary of Defense by November 14?",
-   "polymarket_price": 0.008,
+   "polymarket_price": 0.0065,
    "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-november-14"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.045,
+   "kalshi_title": "Will Jorge Rodr\u00edguez de facto hold head of state of Venezuela at the end of 2026?",
+   "kalshi_price": 0.02,
+   "kalshi_url": "https://kalshi.com/markets/kxvenezdefacto",
+   "polymarket_title": "Will Delcy Rodr\u00edguez be the leader of Venezuela end of 2026?",
+   "polymarket_price": 0.065,
+   "polymarket_url": "https://polymarket.com/event/will-delcy-rodrguez-be-the-leader-of-venezuela-end-of-2026"
   }
  ]
 }
