@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-11-14T18:00:21.084991+00:00",
+ "generated_at": "2026-11-14T23:55:00.086865+00:00",
  "matches": [
   {
-   "similarity": 0.4,
-   "gap": 0.0515,
-   "kalshi_title": "Will Trump release new UFO files before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.81,
-   "kalshi_url": "https://kalshi.com/markets/kxuapfiles",
-   "polymarket_title": "Trump declassifies new UFO files by December 31?",
-   "polymarket_price": 0.8615,
-   "polymarket_url": "https://polymarket.com/event/trump-declassifies-new-ufo-files-by-december-31-20261026"
+   "similarity": 0.364,
+   "gap": 0.25,
+   "kalshi_title": "Will Jensen Huang meet Trump in person before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.135,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumphuangmeet",
+   "polymarket_title": "Will Jensen Huang be the #1 searched person on Google this year?",
+   "polymarket_price": 0.385,
+   "polymarket_url": "https://polymarket.com/event/will-jensen-huang-be-the-1-searched-person-on-google-this-year-20260717214426300"
+  },
+  {
+   "similarity": 0.375,
+   "gap": 0.07,
+   "kalshi_title": "Will Donald Trump make between 20 and 24 Truth Social posts on Nov 14, 2026? \u2014 20-24",
+   "kalshi_price": 0.075,
+   "kalshi_url": "https://kalshi.com/markets/kxtruthsociald",
+   "polymarket_title": "Will Donald Trump post 200+ Truth Social posts from November 17 to November 24, 2026?",
+   "polymarket_price": 0.145,
+   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-17-november-24-2026-200plus"
   }
  ]
 }
