@@ -1,15 +1,35 @@
 {
- "generated_at": "2026-11-14T00:53:20.490291+00:00",
+ "generated_at": "2026-11-14T11:27:45.723763+00:00",
  "matches": [
   {
-   "similarity": 0.895,
-   "gap": 0.0635,
-   "kalshi_title": "Will it be confirmed that a problem with the FAA's SMART air traffic management system caused the FAA's nationwide ground stop on Nov 13? \u2014 SMART system",
-   "kalshi_price": 0.085,
-   "kalshi_url": "https://kalshi.com/markets/kxgroundstopcause",
-   "polymarket_title": "Will it be confirmed that a problem with the FAA's SMART air traffic management system caused the FAA's nationwide ground stop on November 13?",
-   "polymarket_price": 0.0215,
-   "polymarket_url": "https://polymarket.com/event/faa-ground-stop-cause-smart-ai-system"
+   "similarity": 0.6,
+   "gap": 0.17,
+   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Nov 16, 2026? \u2014 Before Nov 16, 2026",
+   "kalshi_price": 0.005,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by December 31?",
+   "polymarket_price": 0.175,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31"
+  },
+  {
+   "similarity": 0.6,
+   "gap": 0.0895,
+   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.14500000000000002,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by November 30?",
+   "polymarket_price": 0.0555,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433"
+  },
+  {
+   "similarity": 0.6,
+   "gap": 0.0425,
+   "kalshi_title": "Will Pete Hegseth be out as Secretary of Defense before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.045,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethout",
+   "polymarket_title": "Pete Hegseth out as Secretary of Defense by November 14?",
+   "polymarket_price": 0.0025,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-november-14"
   }
  ]
 }
