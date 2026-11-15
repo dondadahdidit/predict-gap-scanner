@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-11-15T06:27:38.994286+00:00",
+ "generated_at": "2026-11-15T15:39:31.178561+00:00",
  "matches": [
   {
-   "similarity": 0.429,
-   "gap": 0.4025,
-   "kalshi_title": "Will Pete Hegseth be impeached before Feb 1, 2027? \u2014 Before Feb 1, 2027",
-   "kalshi_price": 0.425,
-   "kalshi_url": "https://kalshi.com/markets/kxhegsethimpeach",
-   "polymarket_title": "Pete Hegseth impeached by December 31, 2026?",
-   "polymarket_price": 0.0225,
-   "polymarket_url": "https://polymarket.com/event/pete-hegseth-impeached-by-december-31-2026-20260628214100529"
+   "similarity": 0.6,
+   "gap": 0.245,
+   "kalshi_title": "Will Howard Lutnick be out as Commerce Secretary before Nov 26, 2026? \u2014 Before Nov 26, 2026",
+   "kalshi_price": 0.175,
+   "kalshi_url": "https://kalshi.com/markets/kxlutnickout",
+   "polymarket_title": "Howard Lutnick out as Secretary of Commerce by December 31?",
+   "polymarket_price": 0.42,
+   "polymarket_url": "https://polymarket.com/event/howard-lutnick-out-as-secretary-of-commerce-by-december-31"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.0975,
+   "kalshi_title": "Will Donald Trump meet (including phone calls) Luiz In\u00e1cio Lula da Silva in Nov 2026?",
+   "kalshi_price": 0.1,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpmeetm",
+   "polymarket_title": "Will Luiz In\u00e1cio Lula da Silva be the next leader out before 2027?",
+   "polymarket_price": 0.0025,
+   "polymarket_url": "https://polymarket.com/event/will-luiz-inacio-lula-da-silva-be-the-next-leader-out-before-2027-20260630194627375"
   }
  ]
 }
