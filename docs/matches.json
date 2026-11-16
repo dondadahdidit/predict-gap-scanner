@@ -1,25 +1,4 @@
 {
- "generated_at": "2026-11-16T06:25:41.652496+00:00",
- "matches": [
-  {
-   "similarity": 0.625,
-   "gap": 0.48,
-   "kalshi_title": "Will Trump be impeached and removed from office? \u2014 Before his term ends",
-   "kalshi_price": 0.20500000000000002,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpremove",
-   "polymarket_title": "Will Trump be impeached before his term ends?",
-   "polymarket_price": 0.685,
-   "polymarket_url": "https://polymarket.com/event/will-trump-be-impeached-before-his-term-ends"
-  },
-  {
-   "similarity": 0.385,
-   "gap": 0.15,
-   "kalshi_title": "Will the President's approval rating be between 38.5 and 38.7 according to RealClearPolitics? \u2014 38.5 to 38.7",
-   "kalshi_price": 0.235,
-   "kalshi_url": "https://kalshi.com/markets/kxaprpotus",
-   "polymarket_title": "Will Trump's approval rating be between 38.5 and 38.9 on November 20, 2026?",
-   "polymarket_price": 0.385,
-   "polymarket_url": "https://polymarket.com/event/will-trumps-approval-rating-be-between-38pt5-and-38pt9-on-november-20-2026"
-  }
- ]
+ "generated_at": "2026-11-16T18:31:58.049108+00:00",
+ "matches": []
 }
