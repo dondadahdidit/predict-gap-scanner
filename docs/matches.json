@@ -1,4 +1,25 @@
 {
- "generated_at": "2026-11-16T18:31:58.049108+00:00",
- "matches": []
+ "generated_at": "2026-11-17T02:55:55.280164+00:00",
+ "matches": [
+  {
+   "similarity": 0.455,
+   "gap": 0.152,
+   "kalshi_title": "Will Donald Trump meet (including phone calls) Kim Jong Un in Nov 2026?",
+   "kalshi_price": 0.29000000000000004,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpmeetm",
+   "polymarket_title": "Will Trump meet with Kim Jong Un in 2026?",
+   "polymarket_price": 0.138,
+   "polymarket_url": "https://polymarket.com/event/will-trump-meet-with-kim-jong-un-in-2026"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.0835,
+   "kalshi_title": "Will Donald Trump meet (including phone calls) Luiz In\u00e1cio Lula da Silva in Nov 2026?",
+   "kalshi_price": 0.085,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpmeetm",
+   "polymarket_title": "Will Luiz In\u00e1cio Lula da Silva be the next leader out before 2027?",
+   "polymarket_price": 0.0015,
+   "polymarket_url": "https://polymarket.com/event/will-luiz-inacio-lula-da-silva-be-the-next-leader-out-before-2027-20260630194627375"
+  }
+ ]
 }
