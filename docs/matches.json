@@ -1,4 +1,25 @@
 {
- "generated_at": "2026-11-17T13:22:53.262196+00:00",
- "matches": []
+ "generated_at": "2026-11-17T23:30:44.982700+00:00",
+ "matches": [
+  {
+   "similarity": 0.429,
+   "gap": 0.444,
+   "kalshi_title": "Will Pete Hegseth be impeached before Mar 1, 2027? \u2014 Before Mar 1, 2027",
+   "kalshi_price": 0.46499999999999997,
+   "kalshi_url": "https://kalshi.com/markets/kxhegsethimpeach",
+   "polymarket_title": "Pete Hegseth impeached by December 31, 2026?",
+   "polymarket_price": 0.021,
+   "polymarket_url": "https://polymarket.com/event/pete-hegseth-impeached-by-december-31-2026-20260628214100529"
+  },
+  {
+   "similarity": 0.444,
+   "gap": 0.36,
+   "kalshi_title": "Will Jensen Huang testify in front of Congress before Dec 2026? \u2014 Before Dec 2026",
+   "kalshi_price": 0.015,
+   "kalshi_url": "https://kalshi.com/markets/kxhuangtestify",
+   "polymarket_title": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
+   "polymarket_price": 0.375,
+   "polymarket_url": "https://polymarket.com/event/will-jensen-huang-publicly-testify-before-congress-by-december-31-2026"
+  }
+ ]
 }
