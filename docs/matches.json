@@ -1,35 +1,15 @@
 {
- "generated_at": "2026-11-19T01:53:24.998779+00:00",
+ "generated_at": "2026-11-19T13:02:16.266650+00:00",
  "matches": [
   {
-   "similarity": 0.444,
-   "gap": 0.3,
-   "kalshi_title": "Will Jensen Huang testify in front of Congress before Jan 2027? \u2014 Before Jan 2027",
-   "kalshi_price": 0.955,
-   "kalshi_url": "https://kalshi.com/markets/kxhuangtestify",
-   "polymarket_title": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
-   "polymarket_price": 0.655,
-   "polymarket_url": "https://polymarket.com/event/will-jensen-huang-publicly-testify-before-congress-by-december-31-2026"
-  },
-  {
-   "similarity": 0.444,
-   "gap": 0.11,
-   "kalshi_title": "Will Jensen Huang testify in front of Congress before Jul 2027? \u2014 Before Jul 2027",
-   "kalshi_price": 0.985,
-   "kalshi_url": "https://kalshi.com/markets/kxhuangtestify",
-   "polymarket_title": "Will Jensen Huang publicly testify before Congress by June 30, 2027?",
-   "polymarket_price": 0.875,
-   "polymarket_url": "https://polymarket.com/event/will-jensen-huang-publicly-testify-before-congress-by-june-30-2027"
-  },
-  {
-   "similarity": 0.412,
-   "gap": 0.045,
-   "kalshi_title": "Will Donald Trump make between 40 and 59 Truth Social posts the week of Nov 15, 2026? \u2014 40-59",
-   "kalshi_price": 0.27,
-   "kalshi_url": "https://kalshi.com/markets/kxtruthsocial",
-   "polymarket_title": "Will Donald Trump post 40-59 Truth Social posts from November 17 to November 24, 2026?",
-   "polymarket_price": 0.315,
-   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-17-november-24-2026-40-59"
+   "similarity": 0.6,
+   "gap": 0.15,
+   "kalshi_title": "Will Howard Lutnick be out as Commerce Secretary before Nov 26, 2026? \u2014 Before Nov 26, 2026",
+   "kalshi_price": 0.025,
+   "kalshi_url": "https://kalshi.com/markets/kxlutnickout",
+   "polymarket_title": "Howard Lutnick out as Secretary of Commerce by December 31?",
+   "polymarket_price": 0.175,
+   "polymarket_url": "https://polymarket.com/event/howard-lutnick-out-as-secretary-of-commerce-by-december-31"
   }
  ]
 }
