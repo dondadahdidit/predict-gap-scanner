@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-11-19T23:02:57.095100+00:00",
+ "generated_at": "2026-11-20T07:13:02.438305+00:00",
  "matches": [
   {
-   "similarity": 0.438,
-   "gap": 0.3745,
-   "kalshi_title": "Will Donald Trump make between 20 and 24 Truth Social posts on Nov 19, 2026? \u2014 20-24",
-   "kalshi_price": 0.375,
+   "similarity": 0.375,
+   "gap": 0.32,
+   "kalshi_title": "Will Donald Trump make between 20 and 24 Truth Social posts on Nov 20, 2026? \u2014 20-24",
+   "kalshi_price": 0.09,
    "kalshi_url": "https://kalshi.com/markets/kxtruthsociald",
-   "polymarket_title": "Will Donald Trump post 0-19 Truth Social posts from November 17 to November 24, 2026?",
-   "polymarket_price": 0.0005,
-   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-17-november-24-2026-0-19"
+   "polymarket_title": "Will Donald Trump post 60-79 Truth Social posts from November 17 to November 24, 2026?",
+   "polymarket_price": 0.41,
+   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-17-november-24-2026-60-79"
   },
   {
-   "similarity": 0.375,
-   "gap": 0.06,
-   "kalshi_title": "Will Donald Trump make at least 40 Truth Social posts on Nov 19, 2026? \u2014 40+",
-   "kalshi_price": 0.075,
+   "similarity": 0.353,
+   "gap": 0.169,
+   "kalshi_title": "Will Donald Trump make between 5 and 9 Truth Social posts on Nov 20, 2026? \u2014 5-9",
+   "kalshi_price": 0.255,
    "kalshi_url": "https://kalshi.com/markets/kxtruthsociald",
-   "polymarket_title": "Will Donald Trump post 40-59 Truth Social posts from November 17 to November 24, 2026?",
-   "polymarket_price": 0.135,
-   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-17-november-24-2026-40-59"
+   "polymarket_title": "Will Donald Trump post 80-99 Truth Social posts from November 13 to November 20, 2026?",
+   "polymarket_price": 0.424,
+   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-13-november-20-2026-80-99"
   }
  ]
 }
