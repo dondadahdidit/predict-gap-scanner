@@ -1,4 +1,15 @@
 {
- "generated_at": "2026-11-20T16:57:33.526075+00:00",
- "matches": []
+ "generated_at": "2026-11-21T01:30:36.820400+00:00",
+ "matches": [
+  {
+   "similarity": 0.444,
+   "gap": 0.305,
+   "kalshi_title": "Will Jensen Huang testify in front of Congress before Jan 2027? \u2014 Before Jan 2027",
+   "kalshi_price": 0.96,
+   "kalshi_url": "https://kalshi.com/markets/kxhuangtestify",
+   "polymarket_title": "Will Jensen Huang publicly testify before Congress by December 31, 2026?",
+   "polymarket_price": 0.655,
+   "polymarket_url": "https://polymarket.com/event/will-jensen-huang-publicly-testify-before-congress-by-december-31-2026"
+  }
+ ]
 }
