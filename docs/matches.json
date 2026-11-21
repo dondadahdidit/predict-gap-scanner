@@ -1,35 +1,15 @@
 {
- "generated_at": "2026-11-21T12:37:38.864859+00:00",
+ "generated_at": "2026-11-21T21:39:10.657657+00:00",
  "matches": [
   {
-   "similarity": 0.5,
-   "gap": 0.195,
-   "kalshi_title": "Will Trump call for Jensen Huang to be reinstated as Nvidia CEO before Dec 1, 2026? \u2014 Before Dec 1, 2026",
-   "kalshi_price": 0.25,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumphuangback",
-   "polymarket_title": "Will Trump call for Jensen Huang's return as NVIDIA CEO by December 31?",
-   "polymarket_price": 0.445,
-   "polymarket_url": "https://polymarket.com/event/will-trump-call-for-jensen-huangs-return-as-nvidia-ceo-by-december-31-2026"
-  },
-  {
-   "similarity": 0.5,
-   "gap": 0.14,
-   "kalshi_title": "Will Trump call for Jensen Huang to be reinstated as Nvidia CEO before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.38,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumphuangback",
-   "polymarket_title": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
-   "polymarket_price": 0.24,
-   "polymarket_url": "https://polymarket.com/event/will-trump-call-for-jensen-huangs-return-as-nvidia-ceo-by-november-30-2026"
-  },
-  {
-   "similarity": 0.333,
-   "gap": 0.0735,
-   "kalshi_title": "Will Kristi Noem leave the Trump administration before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.16499999999999998,
-   "kalshi_url": "https://kalshi.com/markets/kxleavenoem",
-   "polymarket_title": "Will David Sacks leave the Trump administration before 2027?",
-   "polymarket_price": 0.0915,
-   "polymarket_url": "https://polymarket.com/event/will-david-sacks-leave-the-trump-administration-before-2027"
+   "similarity": 0.375,
+   "gap": 0.202,
+   "kalshi_title": "Will Donald Trump visit Trump Tower before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.21,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumpvisittower",
+   "polymarket_title": "Will Donald Trump visit North Korea in 2026?",
+   "polymarket_price": 0.008,
+   "polymarket_url": "https://polymarket.com/event/will-donald-trump-visit-north-korea-in-2026"
   }
  ]
 }
