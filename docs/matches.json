@@ -1,35 +1,15 @@
 {
- "generated_at": "2026-11-22T06:45:16.501780+00:00",
+ "generated_at": "2026-11-22T16:16:05.390744+00:00",
  "matches": [
   {
-   "similarity": 0.625,
-   "gap": 0.53,
-   "kalshi_title": "Will Trump be impeached and removed from office? \u2014 Before his term ends",
-   "kalshi_price": 0.2,
-   "kalshi_url": "https://kalshi.com/markets/kxtrumpremove",
-   "polymarket_title": "Will Trump be impeached before his term ends?",
-   "polymarket_price": 0.73,
-   "polymarket_url": "https://polymarket.com/event/will-trump-be-impeached-before-his-term-ends"
-  },
-  {
-   "similarity": 0.375,
-   "gap": 0.0765,
-   "kalshi_title": "Will Donald Trump make between 20 and 24 Truth Social posts on Nov 22, 2026? \u2014 20-24",
-   "kalshi_price": 0.1,
-   "kalshi_url": "https://kalshi.com/markets/kxtruthsociald",
-   "polymarket_title": "Will Donald Trump post 200+ Truth Social posts from November 17 to November 24, 2026?",
-   "polymarket_price": 0.0235,
-   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-17-november-24-2026-200plus"
-  },
-  {
-   "similarity": 0.4,
-   "gap": 0.0485,
-   "kalshi_title": "Who will recognize Palestine? \u2014 New Zealand",
-   "kalshi_price": 0.05,
-   "kalshi_url": "https://kalshi.com/markets/kxrecogpalestine",
-   "polymarket_title": "Will New Zealand win?",
-   "polymarket_price": 0.0015,
-   "polymarket_url": "https://polymarket.com/event/crint-nzl-ind-2026-11-18-nzl"
+   "similarity": 0.333,
+   "gap": 0.135,
+   "kalshi_title": "Will Kristi Noem leave the Trump administration before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.16,
+   "kalshi_url": "https://kalshi.com/markets/kxleavenoem",
+   "polymarket_title": "Will Stephen Miller leave the Trump administration before 2027?",
+   "polymarket_price": 0.025,
+   "polymarket_url": "https://polymarket.com/event/will-stephen-miller-leave-the-trump-administration-before-2027"
   }
  ]
 }
