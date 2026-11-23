@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-22T16:16:05.390744+00:00",
+ "generated_at": "2026-11-23T00:51:03.961274+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.135,
-   "kalshi_title": "Will Kristi Noem leave the Trump administration before Jan 1, 2027? \u2014 Before Jan 1, 2027",
-   "kalshi_price": 0.16,
-   "kalshi_url": "https://kalshi.com/markets/kxleavenoem",
-   "polymarket_title": "Will Stephen Miller leave the Trump administration before 2027?",
-   "polymarket_price": 0.025,
-   "polymarket_url": "https://polymarket.com/event/will-stephen-miller-leave-the-trump-administration-before-2027"
+   "similarity": 0.5,
+   "gap": 0.115,
+   "kalshi_title": "Will Trump call for Jensen Huang to be reinstated as Nvidia CEO before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.36,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumphuangback",
+   "polymarket_title": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
+   "polymarket_price": 0.245,
+   "polymarket_url": "https://polymarket.com/event/will-trump-call-for-jensen-huangs-return-as-nvidia-ceo-by-november-30-2026"
   }
  ]
 }
