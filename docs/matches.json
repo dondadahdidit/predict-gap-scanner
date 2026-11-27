@@ -1,4 +1,55 @@
 {
- "generated_at": "2026-11-26T13:52:57.582269+00:00",
- "matches": []
+ "generated_at": "2026-11-27T00:34:42.475821+00:00",
+ "matches": [
+  {
+   "similarity": 0.364,
+   "gap": 0.425,
+   "kalshi_title": "Will Jensen Huang meet Trump in person before Feb 1, 2027? \u2014 Before Feb 1, 2027",
+   "kalshi_price": 0.5800000000000001,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumphuangmeet",
+   "polymarket_title": "Will Jensen Huang be the #1 searched person on Google this year?",
+   "polymarket_price": 0.155,
+   "polymarket_url": "https://polymarket.com/event/will-jensen-huang-be-the-1-searched-person-on-google-this-year-20260717214426300"
+  },
+  {
+   "similarity": 0.333,
+   "gap": 0.386,
+   "kalshi_title": "Will Jensen Huang meet Trump in person before Jan 1, 2027? \u2014 Before Jan 1, 2027",
+   "kalshi_price": 0.45499999999999996,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumphuangmeet",
+   "polymarket_title": "Will Jensen Huang be TIME Person of the Year 2026?",
+   "polymarket_price": 0.069,
+   "polymarket_url": "https://polymarket.com/event/will-jensen-huang-be-time-person-of-the-year-2026"
+  },
+  {
+   "similarity": 0.412,
+   "gap": 0.22,
+   "kalshi_title": "Will Donald Trump make between 80 and 99 Truth Social posts the week of Nov 22, 2026? \u2014 80-99",
+   "kalshi_price": 0.305,
+   "kalshi_url": "https://kalshi.com/markets/kxtruthsocial",
+   "polymarket_title": "Will Donald Trump post 80-99 Truth Social posts from November 20 to November 27, 2026?",
+   "polymarket_price": 0.085,
+   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-20-november-27-2026-80-99"
+  },
+  {
+   "similarity": 0.412,
+   "gap": 0.0905,
+   "kalshi_title": "Will Donald Trump make between 120 and 139 Truth Social posts the week of Nov 22, 2026? \u2014 120-139",
+   "kalshi_price": 0.125,
+   "kalshi_url": "https://kalshi.com/markets/kxtruthsocial",
+   "polymarket_title": "Will Donald Trump post 120-139 Truth Social posts from November 20 to November 27, 2026?",
+   "polymarket_price": 0.0345,
+   "polymarket_url": "https://polymarket.com/event/donald-trump-of-truth-social-posts-november-20-november-27-2026-120-139"
+  },
+  {
+   "similarity": 0.375,
+   "gap": 0.0575,
+   "kalshi_title": "Will Jensen Huang meet Trump in person before Dec 1, 2026? \u2014 Before Dec 1, 2026",
+   "kalshi_price": 0.155,
+   "kalshi_url": "https://kalshi.com/markets/kxtrumphuangmeet",
+   "polymarket_title": "Will Trump pardon Jensen Huang before 2027?",
+   "polymarket_price": 0.0975,
+   "polymarket_url": "https://polymarket.com/event/will-trump-pardon-jensen-huang-before-2027"
+  }
+ ]
 }
