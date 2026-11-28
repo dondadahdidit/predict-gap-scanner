@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-27T13:50:58.492065+00:00",
+ "generated_at": "2026-11-28T00:02:37.837951+00:00",
  "matches": [
   {
-   "similarity": 0.333,
-   "gap": 0.425,
-   "kalshi_title": "Will Sweden rank in the World Happiness Report 2027 top 5?",
-   "kalshi_price": 0.39,
-   "kalshi_url": "https://kalshi.com/markets/kxwhrtop5",
-   "polymarket_title": "Will Afghanistan be last in the World Happiness Report 2027?",
-   "polymarket_price": 0.815,
-   "polymarket_url": "https://polymarket.com/event/will-afghanistan-be-last-in-the-world-happiness-report-2027"
+   "similarity": 0.5,
+   "gap": 0.0445,
+   "kalshi_title": "Will Ilhan Omar be arrested before Jan 2027?",
+   "kalshi_price": 0.135,
+   "kalshi_url": "https://kalshi.com/markets/kxarrest",
+   "polymarket_title": "Ilhan Omar arrested by December 31, 2026?",
+   "polymarket_price": 0.0905,
+   "polymarket_url": "https://polymarket.com/event/ilhan-omar-arrested-by-december-31-2026"
   }
  ]
 }
